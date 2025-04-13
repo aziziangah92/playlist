@@ -482,8 +482,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/mrNKFM6V/Untitled-design.png" 
 
 
-#EXTINF:-1 group-title="Malaysia" group-logo="" ch-number="130" tvg-logo="https://aqfadtv.xyz/logos/JomNgaji.png",Jom Ngaji
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd
+#EXTINF:-1 tvg-id="TV3" group-title="Malaysia" ch-number="103" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/TV3.png",TV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:Host=tonton-live-switch-ssar.akamaized.net
+#EXTHTTP:{"Origin":"https://tonton-live-sg3.akamaized.net"}
+#EXTVLCOPT:http-referrer=https://tonton-live-sg3.akamaized.net/
+https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+
+#EXTINF:-1 tvg-id="TV3" group-title="Malaysia" ch-number="103" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/TV3.png",TV3 (Backup)
+https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_720.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311|user-agent=Mozilla/5.0 (Linux; Android 13; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Mobile Safari/537.36&referrer=https://watch.tonton.com.my/
 =====================================================================================================================
   
 #EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1 HD
@@ -506,12 +513,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_ott.mpd
 #EXTINF:-1 tvg-id="TV2" ch-number="102" tvg-name="TV2 HD"" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png", 102 TV2 HD ʳᵗᵐ 
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:Host=tonton-live-switch-ssar.akamaized.net
-#EXTHTTP:{"Origin":"https://tonton-live-sg3.akamaized.net"}
-#EXTVLCOPT:http-referrer=https://tonton-live-sg3.akamaized.net/
-#EXTINF:-1 ttvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", 103 TV3
-https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
 #EXTINF:-1 tvg-id="122.unifi" ch-number="122" tvg-name="TVS" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/TVS_logo_%282024%29.png",122 TVS Sarawak
 #KODIPROP:inputstream.adaptive.license_type=clearkey
