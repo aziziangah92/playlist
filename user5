@@ -3005,6 +3005,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed
 
 =========================================================================================== vod ================================================================================================
 
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="When I'm Ready (2025) Malay Subtitles" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTkxZmM4MzYtOWJkNy00MmVhLWFmZGItYjk0NjViYThiMjY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="ENGLISH(Malay/Indonesian Subtitle)",When I'm Ready (2025) Malay Subtitles
 http://iptv12k.com:35461/movie/m250407034430347/111111/48917.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Wizard Of The Emerald City (2025)Malay Subtitles" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDJmNmRhNjUtN2I4Yi00MjgzLWFlN2EtZTYzOTFiYzE1MGVjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="ENGLISH(Malay/Indonesian Subtitle)",The Wizard Of The Emerald City (2025)Malay Subtitles
