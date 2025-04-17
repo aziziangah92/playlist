@@ -580,6 +580,140 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm; Android 13; SM-A137F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5894.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 
+########################################################################################################################
+############################################  SPORT BACKUP 2  ###################################################################
+########################################################################################################################
+
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/mrNKFM6V/Untitled-design.png" 
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Arena 2 " tvg-logo="https://i.ytimg.com/vi/vmc-j0dDYVU/maxresdefault.jpg" group-title="Sports Backup 2",Astro Arena 2
+http://iptv12k.com:35461/live/m250407034430347/111111/20681.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Arena 2 my2" tvg-logo="https://i.ytimg.com/vi/vmc-j0dDYVU/maxresdefault.jpg" group-title="Sports Backup 2",Astro Arena 2 my2
+http://iptv12k.com:35461/live/m250407034430347/111111/13547.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Arena 2 (b)SPORTS Astro " tvg-logo="https://i.ytimg.com/vi/UXCymQ-7RN8/maxresdefault.jpg" group-title="Sports Backup 2",Arena 2 (b)SPORTS Astro
+http://iptv12k.com:35461/live/m250407034430347/111111/10971.m3u8
+
+#EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Astro Arena1(a)" tvg-logo="https://icon2.cleanpng.com/20180705/kjg/kisspng-astro-supersport-astro-arena-television-channel-5b3e83c75dc402.6375277315308236233841.jpg" group-title="Sports Backup 2",Astro Arena1(a)
+http://iptv12k.com:35461/live/m250407034430347/111111/5943.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Arena(b) SPORTS" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2011/02/Astro-Arena.jpg" group-title="Sports Backup 2",ASTRO Arena(b) SPORTS
+http://iptv12k.com:35461/live/m250407034430347/111111/966.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Arena 2(a) SPORTS Astro " tvg-logo="https://i.ytimg.com/vi/UXCymQ-7RN8/maxresdefault.jpg" group-title="Sports Backup 2",Arena 2(a) SPORTS Astro
+http://iptv12k.com:35461/live/m250407034430347/111111/965.m3u8
+
+#EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Astro Arena 1(b)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_Arena_HD.png" group-title="Sports Backup 2",Astro Arena 1(b)
+http://iptv12k.com:35461/live/m250407034430347/111111/688.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Bola Arena1 Sport" tvg-logo="https://i.ytimg.com/vi/uOQKpR91Cjc/mqdefault.jpg" group-title="Sports Backup 2",Bola Arena1 Sport
+http://iptv12k.com:35461/live/m250407034430347/111111/20630.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Bola Arena2 Sport" tvg-logo="https://i.ytimg.com/vi/uOQKpR91Cjc/mqdefault.jpg" group-title="Sports Backup 2",Bola Arena2 Sport
+http://iptv12k.com:35461/live/m250407034430347/111111/20629.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Bola Arena2" tvg-logo="https://i.ytimg.com/vi/uOQKpR91Cjc/mqdefault.jpg" group-title="Sports Backup 2",Bola Arena2
+http://iptv12k.com:35461/live/m250407034430347/111111/20628.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Bola Arena1" tvg-logo="https://i.ytimg.com/vi/uOQKpR91Cjc/mqdefault.jpg" group-title="Sports Backup 2",Bola Arena1
+http://iptv12k.com:35461/live/m250407034430347/111111/20627.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Premier 1 ASSP1(a) Astro Supersports Premier League 1  my2." tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="Sports Backup 2",Astro Premier 1 ASSP1(a) Astro Supersports Premier League 1  my2.
+http://iptv12k.com:35461/live/m250407034430347/111111/13552.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Premier2 ASSP2(e) Astro Supersports Premier League 2 my2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="Sports Backup 2",Astro Premier2 ASSP2(e) Astro Supersports Premier League 2 my2
+http://iptv12k.com:35461/live/m250407034430347/111111/13551.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Grandstand ASSP3(g)Astro Supersports Premier League 3 my2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="Sports Backup 2",Astro Grandstand ASSP3(g)Astro Supersports Premier League 3 my2
+http://iptv12k.com:35461/live/m250407034430347/111111/13550.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Football ASSP4(e)Astro Supersports Premier 4 my2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="Sports Backup 2",Astro Football ASSP4(e)Astro Supersports Premier 4 my2
+http://iptv12k.com:35461/live/m250407034430347/111111/13549.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network my2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Sports Backup 2",WWE Network my2
+http://iptv12k.com:35461/live/m250407034430347/111111/13546.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport HD my2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTE9Z2aQb7cvpG6Hci_kE4edlIiO9JYun6vpg&usqp=CAU" group-title="Sports Backup 2",Eurosport HD my2
+http://iptv12k.com:35461/live/m250407034430347/111111/13545.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD my2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Sports Backup 2",HGTV HD my2
+http://iptv12k.com:35461/live/m250407034430347/111111/13544.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AFC AFN my2" tvg-logo="https://i.loli.net/2021/10/07/DTesti2RHMUGCr1.png" group-title="Sports Backup 2",AFC AFN my2
+http://iptv12k.com:35461/live/m250407034430347/111111/13543.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Premier 1 ASSP1(e) Astro Supersports Premier League 1 " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="Sports Backup 2",Astro Premier 1 ASSP1(e) Astro Supersports Premier League 1
+http://iptv12k.com:35461/live/m250407034430347/111111/11243.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Premier2 ASSP2(a) Astro Supersports Premier League 2 my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="Sports Backup 2",Astro Premier2 ASSP2(a) Astro Supersports Premier League 2 my
+http://iptv12k.com:35461/live/m250407034430347/111111/11242.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Grandstand ASSP3(g)Astro Supersports Premier League 3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="Sports Backup 2",Astro Grandstand ASSP3(g)Astro Supersports Premier League 3
+http://iptv12k.com:35461/live/m250407034430347/111111/11241.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Football ASSP4 .Astro Supersports Premier 4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="Sports Backup 2",Astro Football ASSP4 .Astro Supersports Premier 4
+http://iptv12k.com:35461/live/m250407034430347/111111/11240.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro W-Sport ASSP5(a)Astro SuperSports 5 HD SPORTS my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png" group-title="Sports Backup 2",Astro W-Sport ASSP5(a)Astro SuperSports 5 HD SPORTS my
+http://iptv12k.com:35461/live/m250407034430347/111111/13684.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Premier 1 ASSP1(a) Astro Supersports Premier League 1 HD SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="Sports Backup 2",Astro Premier 1 ASSP1(a) Astro Supersports Premier League 1 HD SPORTS
+http://iptv12k.com:35461/live/m250407034430347/111111/7990.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Premier 1 ASSP1(b) Astro Supersports Premier League 1 HD SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="Sports Backup 2",Astro Premier 1 ASSP1(b) Astro Supersports Premier League 1 HD SPORTS
+http://iptv12k.com:35461/live/m250407034430347/111111/7989.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Premier2 ASSP2(a) Astro Supersports Premier League 2 HD SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="Sports Backup 2",Astro Premier2 ASSP2(a) Astro Supersports Premier League 2 HD SPORTS
+http://iptv12k.com:35461/live/m250407034430347/111111/7988.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Premier2 ASSP2(b) Astro Supersports Premier League 2 HD SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="Sports Backup 2",Astro Premier2 ASSP2(b) Astro Supersports Premier League 2 HD SPORTS
+http://iptv12k.com:35461/live/m250407034430347/111111/7987.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Grandstand ASSP3(a)Astro Supersports Premier League 3 HDSPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="Sports Backup 2",Astro Grandstand ASSP3(a)Astro Supersports Premier League 3 HDSPORTS
+http://iptv12k.com:35461/live/m250407034430347/111111/7986.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Grandstand ASSP3(b)Astro Supersports Premier League 3 HDSPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="Sports Backup 2",Astro Grandstand ASSP3(b)Astro Supersports Premier League 3 HDSPORTS
+http://iptv12k.com:35461/live/m250407034430347/111111/7985.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Football ASSP4(a)Astro Supersports Premier 4 HD SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="Sports Backup 2",Astro Football ASSP4(a)Astro Supersports Premier 4 HD SPORTS
+http://iptv12k.com:35461/live/m250407034430347/111111/7984.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Football ASSP4(b)Astro Supersports Premier 4 HD SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="Sports Backup 2",Astro Football ASSP4(b)Astro Supersports Premier 4 HD SPORTS
+http://iptv12k.com:35461/live/m250407034430347/111111/7983.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro W-Sport ASSP5(a)Astro SuperSports 5 HD SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png" group-title="Sports Backup 2",Astro W-Sport ASSP5(a)Astro SuperSports 5 HD SPORTS
+http://iptv12k.com:35461/live/m250407034430347/111111/7982.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro W-Sport ASSP5(b)Astro SuperSports 5 HD SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png" group-title="Sports Backup 2",Astro W-Sport ASSP5(b)Astro SuperSports 5 HD SPORTS
+http://iptv12k.com:35461/live/m250407034430347/111111/7981.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Premier 1 ASSP1(c) Astro Supersports Premier League 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="Sports Backup 2",Astro Premier 1 ASSP1(c) Astro Supersports Premier League 1 HD
+http://iptv12k.com:35461/live/m250407034430347/111111/972.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Premier2 ASSP2(c) Astro Supersports Premier League 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="Sports Backup 2",Astro Premier2 ASSP2(c) Astro Supersports Premier League 2
+http://iptv12k.com:35461/live/m250407034430347/111111/971.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Grandstand  ASSP3(a)Astro Supersports Premier League 3 SPORT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="Sports Backup 2",Astro Grandstand  ASSP3(a)Astro Supersports Premier League 3 SPORT
+http://iptv12k.com:35461/live/m250407034430347/111111/970.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Football ASSP4(c)Astro Supersports Premier 4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="Sports Backup 2",Astro Football ASSP4(c)Astro Supersports Premier 4
+http://iptv12k.com:35461/live/m250407034430347/111111/969.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SpoTV SPORTS" tvg-logo="https://i.loli.net/2021/10/03/eTmMUZYXkIRts1D.png" group-title="Sports Backup 2",SpoTV SPORTS
+http://iptv12k.com:35461/live/m250407034430347/111111/967.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 .SPORTS" tvg-logo="https://i.loli.net/2021/10/04/2lqUNVHek6L1Qba.jpg" group-title="Sports Backup 2",beIN Sports 2 .SPORTS
+http://iptv12k.com:35461/live/m250407034430347/111111/961.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="bEIN Sports 3(MY) SPORTS" tvg-logo="https://i.loli.net/2021/10/04/2lqUNVHek6L1Qba.jpg" group-title="Sports Backup 2",bEIN Sports 3(MY) SPORTS
+http://iptv12k.com:35461/live/m250407034430347/111111/960.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SG-beIN Sports Max 2 HD BEIN SPORTS 13" tvg-logo="https://i.loli.net/2021/10/04/2lqUNVHek6L1Qba.jpg" group-title="Sports Backup 2",SG-beIN Sports Max 2 HD BEIN SPORTS 13
+http://iptv12k.com:35461/live/m250407034430347/111111/224.m3u8
+
+
+
 ###################################################################################################################################################################
 ####################################### CHINESE ###################################################################################################################
 ###################################################################################################################################################################
