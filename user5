@@ -102,30 +102,25 @@ https://tinyurl.com/citrts0
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO Ria(a)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" group-title="3 beradik Backup",ASTRO Ria(a)
 http://iptv12k.com:35461/live/m250407034430347/111111/13636.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO Ria(b)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" group-title="3 beradik Backup",ASTRO Ria(b)
 http://iptv12k.com:35461/live/m250407034430347/111111/13635.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO RIA(c)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" group-title="3 beradik Backup",ASTRO RIA(c)
 http://iptv12k.com:35461/live/m250407034430347/111111/13634.m3u8
+
 #EXTINF:-1 tvg-id="Ria.my" tvg-name="Ria(d)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" group-title="3 beradik Backup",Ria(d)
 http://iptv12k.com:35461/live/m250407034430347/111111/13633.m3u8
+
 #EXTINF:-1 tvg-id="Prima.my" tvg-name="ASTRO Prima (a)" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="3 beradik Backup",ASTRO Prima (a) 
 http://iptv12k.com:35461/live/m250407034430347/111111/13632.m3u8
+
 #EXTINF:-1 tvg-id="Prima.my" tvg-name="Astro prima(B)" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="3 beradik Backup",Astro prima(B)
 http://iptv12k.com:35461/live/m250407034430347/111111/13631.m3u8
+
 #EXTINF:-1 tvg-id="Prima.my" tvg-name="Astro prima(C)" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="3 beradik Backup",Astro prima(C)
 http://iptv12k.com:35461/live/m250407034430347/111111/13630.m3u8
-#EXTINF:-1 tvg-id="Warna.my" tvg-name="WARNA(a)" tvg-logo="https://i.loli.net/2021/10/05/tulOMZw6fxyFCLX.png" group-title="3 beradik Backup",WARNA(a)
-http://iptv12k.com:35461/live/m250407034430347/111111/13629.m3u8
-#EXTINF:-1 tvg-id="Warna.my" tvg-name="WARNA(b)" tvg-logo="https://i.loli.net/2021/10/05/tulOMZw6fxyFCLX.png" group-title="3 beradik Backup",WARNA(b)
-http://iptv12k.com:35461/live/m250407034430347/111111/13628.m3u8
-#EXTINF:-1 tvg-id="Warna.my" tvg-name="ASTRO Warna(c)" tvg-logo="https://i.loli.net/2021/10/05/7QbR3qYUgmlxzwn.jpg" group-title="3 beradik Backup",ASTRO Warna(c)
-http://iptv12k.com:35461/live/m250407034430347/111111/13627.m3u8
-#EXTINF:-1 tvg-id="Warna.my" tvg-name="Warna(d)" tvg-logo="https://i.loli.net/2021/10/05/tulOMZw6fxyFCLX.png" group-title="3 beradik Backup",Warna(d)
-http://iptv12k.com:35461/live/m250407034430347/111111/13626.m3u8
-#EXTINF:-1 tvg-id="Warna.my" tvg-name="Warna(e)" tvg-logo="https://i.loli.net/2021/10/05/tulOMZw6fxyFCLX.png" group-title="3 beradik Backup",Warna(e)
-http://iptv12k.com:35461/live/m250407034430347/111111/13625.m3u8
-#EXTINF:-1 tvg-id="Warna.my" tvg-name="Warna(f)" tvg-logo="https://i.loli.net/2021/10/05/tulOMZw6fxyFCLX.png" group-title="3 beradik Backup",Warna(f)
-http://iptv12k.com:35461/live/m250407034430347/111111/13624.m3u8
+
 #EXTINF:-1 tvg-id="Citra.my" tvg-name="ASTRO Citra (B)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="3 beradik Backup",ASTRO Citra
 http://iptv12k.com:35461/live/m250407034430347/111111/13610.m3u8
 
@@ -587,6 +582,169 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2601
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm; Android 13; SM-A137F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5894.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
+
+########################################################################################################################
+############################################  SPORT  BACKUP 2 ###################################################################
+########################################################################################################################
+ 
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/mrNKFM6V/Untitled-design.png" 
+
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV US(a) " tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="SPORTS backup 2",NBA TV US(a)
+http://iptv12k.com:35461/live/m250407034430347/111111/12557.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV  US(b)" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="SPORTS backup 2",NBA TV  US(b)
+http://iptv12k.com:35461/live/m250407034430347/111111/12556.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV(a)" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="SPORTS backup 2",NBA TV(a)
+http://iptv12k.com:35461/live/m250407034430347/111111/12555.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV(b)" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="SPORTS backup 2",NBA TV(b)
+http://iptv12k.com:35461/live/m250407034430347/111111/12554.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 2(b)" tvg-logo="https://www.kindpng.com/picc/m/23-238823_bt-sport-2-logo-hd-png-download.png" group-title="SPORTS backup 2",UK: BT SPORT 2(b)
+http://iptv12k.com:35461/live/m250407034430347/111111/12553.m3u8
+
+============================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="USA: BEIN SPORTS 11" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein-SportsHD11.png" group-title="SPORTS backup 2",USA: BEIN SPORTS 11
+http://iptv12k.com:35461/live/m250407034430347/111111/5675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: BeIN Sports 4" tvg-logo="https://static.iptv-epg.com/ca/beINSports4.ca.png" group-title="SPORTS backup 2",SP: USA: BeIN Sports 4
+http://iptv12k.com:35461/live/m250407034430347/111111/5674.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: BeIN Sports 6" tvg-logo="https://static.iptv-epg.com/ca/beINSports6.ca.png" group-title="SPORTS backup 2",SP: USA: BeIN Sports 6
+http://iptv12k.com:35461/live/m250407034430347/111111/5673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports USA" tvg-logo="" group-title="SPORTS backup 2",US: beIN Sports USA
+http://iptv12k.com:35461/live/m250407034430347/111111/5672.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Supersport Premier League" tvg-logo="" group-title="SPORTS backup 2",US: Supersport Premier League
+http://iptv12k.com:35461/live/m250407034430347/111111/5671.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Supersport Football" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-football.png" group-title="SPORTS backup 2",US: Supersport Football
+http://iptv12k.com:35461/live/m250407034430347/111111/5670.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Supersport LaLiga" tvg-logo="" group-title="SPORTS backup 2",US: Supersport LaLiga
+http://iptv12k.com:35461/live/m250407034430347/111111/5669.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: SuperSport MaXimo" tvg-logo="" group-title="SPORTS backup 2",US: SuperSport MaXimo
+http://iptv12k.com:35461/live/m250407034430347/111111/5668.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Supersport Motorsport" tvg-logo="" group-title="SPORTS backup 2",US: Supersport Motorsport
+http://iptv12k.com:35461/live/m250407034430347/111111/5667.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Supersport PSL" tvg-logo="" group-title="SPORTS backup 2",US: Supersport PSL
+http://iptv12k.com:35461/live/m250407034430347/111111/5666.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Supersport Variety 3" tvg-logo="" group-title="SPORTS backup 2",US: Supersport Variety 3
+http://iptv12k.com:35461/live/m250407034430347/111111/5665.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Supersport Variety 4" tvg-logo="" group-title="SPORTS backup 2",US: Supersport Variety 4
+http://iptv12k.com:35461/live/m250407034430347/111111/5664.m3u8
+
+===========================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: LiverpooL FC HD lfc" tvg-logo="" group-title="SPORTS backup 2",UK: LiverpooL FC HD lfc
+http://iptv12k.com:35461/live/m250407034430347/111111/5363.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORT F1" tvg-logo="" group-title="SPORTS backup 2",UK: SKY SPORT F1
+http://iptv12k.com:35461/live/m250407034430347/111111/5362.m3u8
+
+================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="JP: J SPORTS 4 JP" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1720.png" group-title="SPORTS backup 2",JP: J SPORTS 4 JP
+http://iptv12k.com:35461/live/m250407034430347/111111/3137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JP: J SPORTS 3 JP" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-158-400x400.png" group-title="SPORTS backup 2",JP: J SPORTS 3 JP
+http://iptv12k.com:35461/live/m250407034430347/111111/3136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JP: J SPORTS 2 JP" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-169-400x400.png" group-title="SPORTS backup 2",JP: J SPORTS 2 JP
+http://iptv12k.com:35461/live/m250407034430347/111111/3135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JP: J SPORTS 1 JP" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/36-JSPORT1-600x400.jpg" group-title="SPORTS backup 2",JP: J SPORTS 1 JP
+http://iptv12k.com:35461/live/m250407034430347/111111/3134.m3u8
+
+===================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 1 backup" tvg-logo="https://sport-tv-guide.live/images/stations/a97.png" group-title="SPORTS backup 2",UK: BT Sport 1 backup
+http://iptv12k.com:35461/live/m250407034430347/111111/2381.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 1 HD" tvg-logo="https://i.pinimg.com/originals/9c/17/98/9c1798e1b95e4685732b64f1a29d16a1.jpg" group-title="SPORTS backup 2",UK: BT Sport 1 HD
+http://iptv12k.com:35461/live/m250407034430347/111111/2380.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 3 HD" tvg-logo="https://1.bp.blogspot.com/-NT0JpdM8_Ko/XPexW-fri_I/AAAAAAAAAxE/2_i5Ev0r1BQjPmFB0u-fOs0H2GmDWdb_wCLcBGAs/w1200-h630-p-k-no-nu/bt-sport-3-bt-sport-3-live-bt-sport-3-live-stream-bt-sport-3-live-streaming-bt-sport-3-hd-bt-sport-3-channel%255B1%255D-min.png" group-title="SPORTS backup 2",UK: BT Sport 3 HD
+http://iptv12k.com:35461/live/m250407034430347/111111/2378.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 3 SD" tvg-logo="https://sport-tv-guide.live/images/tv-station-bt-sport-3-108.png" group-title="SPORTS backup 2",UK: BT Sport 3 SD
+http://iptv12k.com:35461/live/m250407034430347/111111/2377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport ESPN" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1491.1436396789.png" group-title="SPORTS backup 2",UK: BT Sport ESPN
+http://iptv12k.com:35461/live/m250407034430347/111111/2376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 1" tvg-logo="https://media.info/i/lf/0/1447433721/1065.png" group-title="SPORTS backup 2",UK: Eurosport 1
+http://iptv12k.com:35461/live/m250407034430347/111111/2366.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: EUROSPORT 2 HD" tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg" group-title="SPORTS backup 2",UK: EUROSPORT 2 HD
+http://iptv12k.com:35461/live/m250407034430347/111111/2365.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: LFC TV HD" tvg-logo="https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/default/0001/21/thumb_20605_default_news_size_5.jpeg" group-title="SPORTS backup 2",UK: LFC TV HD
+http://iptv12k.com:35461/live/m250407034430347/111111/2360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Premier Sports HD" tvg-logo="https://media.irishpost.co.uk/uploads/2017/05/premier-logo-hd-copy.jpg" group-title="SPORTS backup 2",UK: Premier Sports HD
+http://iptv12k.com:35461/live/m250407034430347/111111/2356.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Racing UK" tvg-logo="https://i.ytimg.com/vi/x-XgfFWA-pk/maxresdefault.jpg" group-title="SPORTS backup 2",UK: Racing UK
+http://iptv12k.com:35461/live/m250407034430347/111111/2354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Arena HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sky_Sport_Arena_HD_-_Logo_2018.svg/2000px-Sky_Sport_Arena_HD_-_Logo_2018.svg.png" group-title="SPORTS backup 2",UK: Sky Sport Arena HD
+http://iptv12k.com:35461/live/m250407034430347/111111/2351.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1200px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="SPORTS backup 2",UK: Sky Sport F1 HD
+http://iptv12k.com:35461/live/m250407034430347/111111/2350.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News(a) News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcmqGYxOCPQpcS39TMDmFc93yEh2Pcd4BxfE8-ILog7k-1L3wA" group-title="SPORTS backup 2",UK: Sky Sports News(a) News
+http://iptv12k.com:35461/live/m250407034430347/111111/2348.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ACTION HD TLLL" tvg-logo="http://sekdrive.net/wp-content/uploads/2018/08/Sky-Sports-Action-HD-UK.png" group-title="SPORTS backup 2",UK: SKY SPORTS ACTION HD TLLL
+http://iptv12k.com:35461/live/m250407034430347/111111/2346.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS CRICKET HD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjliNWU0NWEtNDA2Yy00MjZjLWJkZTgtNTJkN2UwNTUwYmFkXkEyXkFqcGdeQXVyMDkwNTkwNg@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="SPORTS backup 2",UK: SKY SPORTS CRICKET HD
+http://iptv12k.com:35461/live/m250407034430347/111111/2344.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS GOLF HD" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/03/golf-channel-logo-vector.png" group-title="SPORTS backup 2",UK: SKY SPORTS GOLF HD
+http://iptv12k.com:35461/live/m250407034430347/111111/2342.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MAIN EVENT" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1086.1507600158.png" group-title="SPORTS backup 2",UK: SKY SPORTS MAIN EVENT
+http://iptv12k.com:35461/live/m250407034430347/111111/2341.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MAIN EVENT HD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1086.1507600158.png" group-title="SPORTS backup 2",UK: SKY SPORTS MAIN EVENT HD
+http://iptv12k.com:35461/live/m250407034430347/111111/2340.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS PREMIER LEAGUE HD" tvg-logo="https://www.moddingway.com/screenshots/files/226106/big.jpg" group-title="SPORTS backup 2",UK: SKY SPORTS PREMIER LEAGUE HD
+http://iptv12k.com:35461/live/m250407034430347/111111/2337.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 2-SD" tvg-logo="https://www.logolynx.com/images/logolynx/d4/d45270f0d1dc46feafd57c63a8c53146.png" group-title="SPORTS backup 2",IN: Star Sports 2-SD
+http://iptv12k.com:35461/live/m250407034430347/111111/2333.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN:  Star sports select 1 i" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="SPORTS backup 2",IN:  Star sports select 1 i
+http://iptv12k.com:35461/live/m250407034430347/111111/2316.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN:  Star sports HD1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="SPORTS backup 2",IN:  Star sports HD1
+http://iptv12k.com:35461/live/m250407034430347/111111/2315.m3u8
+
+==========================================================================
+
+http://iptv12k.com:35461/live/m250407034430347/111111/1954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="SPORTS backup 2",IN: STAR SPORTS 1 HD
+http://iptv12k.com:35461/live/m250407034430347/111111/1951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS 2 HD" tvg-logo="https://www.logolynx.com/images/logolynx/d4/d45270f0d1dc46feafd57c63a8c53146.png" group-title="SPORTS backup 2",IN: STAR SPORTS 2 HD
+http://iptv12k.com:35461/live/m250407034430347/111111/1950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star sports  SELECT 1" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-1-logo-300x300.jpg" group-title="SPORTS backup 2",IN: Star sports  SELECT 1
+http://iptv12k.com:35461/live/m250407034430347/111111/1946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS SELECT 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-star-sports-select-2-231.png" group-title="SPORTS backup 2",IN: STAR SPORTS SELECT 2 HD
+http://iptv12k.com:35461/live/m250407034430347/111111/1945.m3u8
+
+================================================================
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN HD" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="SPORTS backup 2",US: ESPN HD
+http://iptv12k.com:35461/live/m250407034430347/111111/1642.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN U HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png" group-title="SPORTS backup 2",US: ESPN U HD
+http://iptv12k.com:35461/live/m250407034430347/111111/1640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="SPORTS backup 2",US: Fox Sports 1 HD
+http://iptv12k.com:35461/live/m250407034430347/111111/1633.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="SPORTS backup 2",US: Fox Sports 2 HD
+http://iptv12k.com:35461/live/m250407034430347/111111/1632.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox SPORTS 506 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/220px-Fox_Sports_logo1.svg.png" group-title="SPORTS backup 2",US: Fox SPORTS 506 HD
+http://iptv12k.com:35461/live/m250407034430347/111111/1631.m3u8
+
+==========================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="SpoTV SPORTS" tvg-logo="https://i.loli.net/2021/10/03/eTmMUZYXkIRts1D.png" group-title="SPORTS backup 2",SpoTV SPORTS
+http://iptv12k.com:35461/live/m250407034430347/111111/967.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 .SPORTS" tvg-logo="https://i.loli.net/2021/10/04/2lqUNVHek6L1Qba.jpg" group-title="SPORTS backup 2",beIN Sports 2 .SPORTS
+http://iptv12k.com:35461/live/m250407034430347/111111/961.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="bEIN Sports 3(MY) SPORTS" tvg-logo="https://i.loli.net/2021/10/04/2lqUNVHek6L1Qba.jpg" group-title="SPORTS backup 2",bEIN Sports 3(MY) SPORTS
+http://iptv12k.com:35461/live/m250407034430347/111111/960.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIN-Fight Sports SPORTS" tvg-logo="https://i.loli.net/2021/10/03/jZyTsSi4eg9oAaq.png" group-title="SPORTS backup 2",SIN-Fight Sports SPORTS
+http://iptv12k.com:35461/live/m250407034430347/111111/946.m3u8
+#EXTINF:-1 tvg-id="eGGNetwork.my" tvg-name="SIN-EGG Network SPORTS" tvg-logo="https://i.loli.net/2021/10/03/EzU9lfuwGnWPVQt.jpg" group-title="SPORTS backup 2",SIN-EGG Network SPORTS
+http://iptv12k.com:35461/live/m250407034430347/111111/944.m3u8
+#EXTINF:-1 tvg-id="RugbyPass.my" tvg-name="Rugby Pass TV SPORTS" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/rugbypass-tv.png" group-title="SPORTS backup 2",Rugby Pass TV SPORTS
+http://iptv12k.com:35461/live/m250407034430347/111111/943.m3u8
+
+============================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="SPORTS backup 2",WWE Network SPORTS
+http://iptv12k.com:35461/live/m250407034430347/111111/993.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Cricket SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="SPORTS backup 2",ASTRO Cricket SPORTS
+http://iptv12k.com:35461/live/m250407034430347/111111/992.m3u8
+
+=================================================================================
+#EXTINF:-1 tvg-id="" tvg-name="[HK] 卫视体育台 Star Sports 耀才财经 FIGHT SPORTS" tvg-logo="https://i.loli.net/2021/10/10/y54dWwuGTJSPisl.png" group-title="SPORTS backup 2",[HK] 卫视体育台 Star Sports 耀才财经 FIGHT SPORTS
+http://iptv12k.com:35461/live/m250407034430347/111111/1016.m3u8
+
+
+
+
 
 ###################################################################################################################################################################
 ####################################### CHINESE ###################################################################################################################
