@@ -591,13 +591,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 
 
 
-########################################################################################################################
-############################################  Sports Backup 2  ###################################################################
-########################################################################################################################
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/mrNKFM6V/Untitled-design.png"
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport Cricket TL" tvg-logo="" group-title="Sports Backup 2",SuperSport Cricket TL
 http://iptv12k.com:35461/live/m250310966602573/111111/16237.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Premier 1 ASSP1(e) Astro Supersports Premier League 1 " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="Sports Backup ",Astro Premier 1 ASSP1(e) Astro Supersports Premier League 1
