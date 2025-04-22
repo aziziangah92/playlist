@@ -90,6 +90,47 @@ https://tinyurl.com/playcit0
 #EXTINF:-1 tvg-id="AstroCitra" group-title="3 beradik" ch-number="108" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/Astro Citra (2024).png",Citra (TESTING)
 #EXTVLCOPT:http-user-agent=PerfectTv v3 (Android 9)
 #https://tinyurl.com/citrts0
+-----------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="Citra.my" tvg-name="ASTRO Citra (B) my2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="3 beradik Backup",ASTRO Citra (B) my2
+http://iptv12k.com:35461/live/m250310966602573/111111/13610.m3u8
+
+#EXTINF:-1 tvg-id="Citra.my" tvg-name="ASTRO Citra(A)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="3 beradik Backup",ASTRO Citra(A)
+http://iptv12k.com:35461/live/m250310966602573/111111/721.m3u8
+
+
+#######################3 beradik Backup #################################
+
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/mrNKFM6V/Untitled-design.png"
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Ria(a) my2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" group-title="3 beradik Backup",ASTRO Ria(a) my2
+http://iptv12k.com:35461/live/m250310966602573/111111/13636.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Ria(b) my2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" group-title="3 beradik Backup",ASTRO Ria(b) my2
+http://iptv12k.com:35461/live/m250310966602573/111111/13635.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO RIA(c) my2 backup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" group-title="3 beradik Backup",ASTRO RIA(c) my2 backup
+http://iptv12k.com:35461/live/m250310966602573/111111/13634.m3u8
+
+#EXTINF:-1 tvg-id="Ria.my" tvg-name="Ria(d)ASTRO my2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" group-title="3 beradik Backup",Ria(d)ASTRO my2
+http://iptv12k.com:35461/live/m250310966602573/111111/13633.m3u8
+
+#EXTINF:-1 tvg-id="Prima.my" tvg-name="ASTRO Prima (a)  my2" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="3 beradik Backup",ASTRO Prima (a)  my2
+http://iptv12k.com:35461/live/m250310966602573/111111/13632.m3u8
+
+#EXTINF:-1 tvg-id="Prima.my" tvg-name="Astro prima(B) my2" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="3 beradik Backup",Astro prima(B) my2
+http://iptv12k.com:35461/live/m250310966602573/111111/13631.m3u8
+
+#EXTINF:-1 tvg-id="Prima.my" tvg-name="Astro prima(C) my2" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="3 beradik Backup",Astro prima(C) my2
+http://iptv12k.com:35461/live/m250310966602573/111111/13630.m3u8
+
+#EXTINF:-1 tvg-id="Citra.my" tvg-name="ASTRO Citra (B) my2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="3 beradik Backup",ASTRO Citra (B) my2
+http://iptv12k.com:35461/live/m250310966602573/111111/13610.m3u8
+
+#EXTINF:-1 tvg-id="Citra.my" tvg-name="ASTRO Citra(A)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="3 beradik Backup",ASTRO Citra(A)
+http://iptv12k.com:35461/live/m250310966602573/111111/721.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Prima (a)  TL" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="3 beradik Backup",ASTRO Prima (a)  TL
+http://iptv12k.com:35461/live/m250310966602573/111111/13411.m3u8
 
 
 ########################################################################################################################
