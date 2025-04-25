@@ -584,6 +584,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"Referrer Policy":"strict-origin-when-cross-origin"}
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"}
+#EXTHTTP: Origin=https://www.sooka.my
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDU1ODMzNjcsImlzcyI6IlZSIiwiZXhwIjoxNzQ1NjIwMjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNWNjM2I5OWEtMTQ3Yy00NjA4LTk2ODctNmI1NDEzMTNlYmYxIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjQwMCJ9.6K1aBpKGLmuvoiAD0u3y2Pl37N6Qtx0t2LoITNClSyM"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
