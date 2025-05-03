@@ -813,19 +813,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="AEC.my" tvg-name="AEC ASTRO(a)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Astro_AEC_HD.jpg/200px-Astro_AEC_HD.jpg" group-title="Chinese",AEC ASTRO(a)
-http://iptv12k.com:35461/live/m250310966602573/111111/4341.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AEC(b)ASTRO" tvg-logo="https://alchetron.com/cdn/astro-aec-4615389e-78a9-4ae7-b760-68ab3e65d59-resize-750.jpg" group-title="Chinese",AEC(b)ASTRO
-http://iptv12k.com:35461/live/m250310966602573/111111/709.m3u8
-#EXTINF:-1 tvg-id="AEC.my" tvg-name="AEC ASTRO(a) my2 tou" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Astro_AEC_HD.jpg/200px-Astro_AEC_HD.jpg" group-title="Chinese",AEC ASTRO(c)
-http://iptv12k.com:35461/live/m250310966602573/111111/13597.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AEC ASTRO Shuang Xing HD双星  TL Astro QJ" tvg-logo="https://alchetron.com/cdn/shuang-xing-18b8a937-d30f-4177-b61d-226245e09c4-resize-750.jpeg" group-title="Chinese",AEC ASTRO Shuang Xing HD双星  TL Astro QJ
-http://iptv12k.com:35461/live/m250310966602573/111111/13372.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AEC 双星 Shuang Xing(b)Astro TL" tvg-logo="https://alchetron.com/cdn/shuang-xing-18b8a937-d30f-4177-b61d-226245e09c4-resize-750.jpeg" group-title="Chinese",AEC 双星 Shuang Xing(b)Astro TL
-http://iptv12k.com:35461/live/m250310966602573/111111/13371.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AEC ASTRO Shuang Xing HD双星" tvg-logo="https://alchetron.com/cdn/shuang-xing-18b8a937-d30f-4177-b61d-226245e09c4-resize-750.jpeg" group-title="Chinese",AEC ASTRO Shuang Xing HD双星
-http://iptv12k.com:35461/live/m250310966602573/111111/706.m3u8
-==============================================================================
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDU0NTE2NjAsImlzcyI6IlZSIiwiZXhwIjoxNzQ1NTMzODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiODc2NzFhYTUtN2QzMC00OWZiLTlkNWUtNmIxZDQ2MzYzZTQ4IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.IwbWntcGG3ZUUMvjixLngFwnpsc_BgiJ3KmHV0SEwh0"}
