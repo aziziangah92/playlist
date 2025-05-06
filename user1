@@ -72,6 +72,10 @@ https://akutv.info/123ria
 #EXTINF:-1 tvg-id="AstroRia" group-title="3 beradik" ch-number="104" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/Astro Ria (2024).png",Astro Ria (B)
 https://l16.dp.sooka.my/1004/linear/index.mpd
 
+#EXTINF:-1 tvg-id="AstroRia" group-title="3 beradik" ch-number="104" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/Astro Ria (2024).png",Astro Ria (D)
+https://link.zozotv.xyz/live/vip_3klp0es8/wg3piwEs/2678.ts
+#https://tinyurl.com/riats0
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -97,7 +101,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2678.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="118 Prima (B)" tvg-logo="https://get.perfecttv.net/logo/prima.png" group-title="3 beradik",118 Prima (C)
-#http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2677.ts
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2677.ts
 ------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="Citra.my" tvg-name="ASTRO Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="3 beradik",ASTRO Citra (D)
 http://iptv12k.com:35461/live/m250310966602573/111111/13610.m3u8
