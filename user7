@@ -75,7 +75,7 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=citra
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="3 beradik" ch-number="108" group-logo="https://aqfadtv.xyz/images/astro.png" tvg-logo="https://aqfadtv.xyz/logos/Astro Citra (2024).png",Citra
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
+#http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
 
 -------------------------------------------------------------------
 
