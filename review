@@ -142,13 +142,9 @@ https://l02.dp.sooka.my/5100/linear/index.mpd|authorization=Bearer eyJhbGciOiJIU
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1600
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; T506D Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6204.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="AstroSportsUHD" ch-number="805" tvg-logo="https://aqfadtv.xyz/logos/Astro Sports UHD (2024).png" group-title="Sports" group-logo="",Astro Sports UHD
-#https://l18.dp.sooka.my/1601/linear/index.mpd
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
-#https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
-#https://linear16-playback.sooka.my/CH1/masterCH1.mpd
-
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"854b92999da0443ea315da8aad641497":"7981e9793610584240241706fe9e2ea2","4de5391b090c4259be8b7322f6d0bbb1":"225f00d71a69a46b6160b56c2ff5f0b0"}
