@@ -91,3 +91,56 @@
     </script>
 </body>
 </html>
+
+==========================================================================
+
+#EXTM3U x-tvg-url="https://azimabid00.github.io/epg/astro_epg.xml,https://bit.ly/pondan-epg,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://aqfadtv.xyz/epg" refresh="1440" max-conn="4" refresh="24" billed-msg="Refresh Done | If OTT Navigator pop-up update please DO NOT UPDATE, current stable version: 1.7.1.5" vod_library="https://mokm32.github.io/vod-top-20/,https://vod.pondan.workers.dev/dewanonton.json,https://mokm32.github.io/vodupdatenew/,https://www.dropbox.com/scl/fi/x5hwcfzcii5yzrmivqwjg/RKH-movie.txt?rlkey=43hqbafl9pvf7lbpppk6ubxxm&st=zsor4flu&dl=1"
+
+#EXTINF:-1 group-title="ORDER ID👉SHOPEE NeckleNJ " group-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg" tvg-id="NeckleNJ" ch-number="100" tvg-name="NeckleNJ" tvg-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg", ID ORIGINAL KEDAI SHOPEE NeckleNJ
+https://youtu.be/D2rRj74cG00
+
+#EXTINF:-1 group-title="JAM UPDATE PLAYLIST" group-logo="https://i.ibb.co/VWkp5b66/warning-sign-gradient-shine-78370-1774.jpg" tvg-id="JAM UPDATE PLAYLIST" ch-number="100" tvg-name="JAM UPDATE PLAYLIST" tvg-logo="https://i.ibb.co/VWkp5b66/warning-sign-gradient-shine-78370-1774.jpg", TENGAH HARI OR MALAM SETIAP HARI
+https://youtu.be/D2rRj74cG00
+================================================
+
+############## 3 beradik #################################
+
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/mrNKFM6V/Untitled-design.png"
+
+
+
+#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+#EXTINF:-1 group-logo="" group-title="3 beradik" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/ria.png" ,119 Ria(A)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=ria
+
+#EXTINF:-1 group-logo="" group-title="3 beradik" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/prima.png" ,118 Prima(A)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=prima
+
+#EXTINF:-1 group-logo="" group-title="3 beradik" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/citra.png" ,121 Citra(A)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=citra
+
+#EXTINF:-1 tvg-id="AstroCitra" group-title="3 beradik" ch-number="108" group-logo="https://aqfadtv.xyz/images/astro.png" tvg-logo="https://aqfadtv.xyz/logos/Astro Citra (2024).png",Citra
+#http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
+
+-------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="121 Citra(B)" tvg-logo="https://get.perfecttv.net/logo/citra.png" group-title="3 beradik",121 Citra(C)
+#http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="119 Ria(B)" tvg-logo="https://get.perfecttv.net/logo/ria.png" group-title="3 beradik",119 Ria(C)
+#http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2678.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="118 Prima (B)" tvg-logo="https://get.perfecttv.net/logo/prima.png" group-title="3 beradik",118 Prima (C)
+#http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2677.ts
+------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="Citra.my" tvg-name="ASTRO Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="3 beradik",ASTRO Citra (D)
+http://iptv12k.com:35461/live/m250310966602573/111111/13610.m3u8
