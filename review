@@ -91,6 +91,11 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #EXTINF:-1 tvg-id="Citra.my" tvg-name="ASTRO Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="3 beradik",ASTRO Citra (D)
 http://iptv12k.com:35461/live/m250310966602573/111111/13610.m3u8
 
+#EXTINF:-1 tvg-id="601" tvg-name="Sooka Channel 601" tvg-logo="",Sooka Channel 601
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sooka.my/
+#EXTVLCOPT:http-header-fields=Authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDc0OTA3OTAsImlzcyI6IlZSIiwiZXhwIjoxNzQ3NTIxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNWNjM2I5OWEtMTQ3Yy00NjA4LTk2ODctNmI1NDEzMTNlYmYxIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNjAxIn0.MG8jnU1ulCO9y_GSNoB9ASfduj3xV64SkB6ooF8n0tg
+https://l01.dp.sooka.my/601/linear/index.mpd
 
 ########################################################################################################################
 ############################################  SPORT  ###################################################################
