@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OTT Player</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #1a1a1a;
+            color: #fff;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+        .main-menu {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            padding: 20px;
+        }
+        .shop-name {
+            position: fixed;
+            bottom: 10px;
+            left: 10px;
+            font-size: 18px;
+            font-weight: bold;
+            color: #ffcc00; /* Warna boleh tukar */
+        }
+    </style>
+</head>
+<body>
+    <div class="main-menu">
+        <h1>Selamat Datang ke OTT Player</h1>
+        <!-- Kandungan menu lain boleh ditambah di sini -->
+        <div class="shop-name">Beli di kedai Shopee NeckleNj</div>
+    </div>
+</body>
+</html>
+
+#EXTM3U x-tvg-url="https://azimabid00.github.io/epg/astro_epg.xml,https://bit.ly/pondan-epg,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://aqfadtv.xyz/epg" refresh="1440" max-conn="4" refresh="24" vod_library="https://mokm32.github.io/vod-top-20/,https://vod.pondan.workers.dev/dewanonton.json,https://mokm32.github.io/vodupdatenew/,https://www.dropbox.com/scl/fi/x5hwcfzcii5yzrmivqwjg/RKH-movie.txt?rlkey=43hqbafl9pvf7lbpppk6ubxxm&st=zsor4flu&dl=1"
+
+#EXTINF:-1 group-title="ORDER ID👉 SHOPEE NeckleNJ " group-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg" tvg-id="NeckleNJ" ch-number="100" tvg-name="NeckleNJ" tvg-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg", ID ORIGINAL KEDAI SHOPEE NeckleNJ
+https://archive.org/download/2025-01-16-03-39-44/2025-01-16%2003-39-44.mp4
+
+#EXTINF:-1 group-title="ORDER ID👉Website NeckleNJ " group-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg" tvg-id="Website NeckleNJ" ch-number="100" tvg-name="Website NeckleNJ" tvg-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg", Order ID👉 Website NeckleNJ
+https://archive.org/download/2025-05-20-23-11-14/2025-05-20%2023-11-14.mp4
+
+#EXTINF:-1 group-title="ORDER ID👉Website NeckleNJ " group-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg" tvg-id="cara Order dekat Website NeckleNJ" ch-number="100" tvg-name="cara Order dekat Website NeckleNJ" tvg-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg", cara Order dekat👉Website NeckleNJ
+https://archive.org/download/2025-05-20-23-18-13/2025-05-20%2023-18-13.mp4
+
+#EXTINF:-1 group-title="JAM UPDATE PLAYLIST" group-logo="https://i.ibb.co/VWkp5b66/warning-sign-gradient-shine-78370-1774.jpg" tvg-id="JAM UPDATE PLAYLIST" ch-number="100" tvg-name="JAM UPDATE PLAYLIST" tvg-logo="https://i.ibb.co/VWkp5b66/warning-sign-gradient-shine-78370-1774.jpg", TENGAH HARI OR MALAM SETIAP HARI
+https://youtu.be/D2rRj74cG00
+================================================
+
+############## 3 beradik #################################
+
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/mrNKFM6V/Untitled-design.png"
+
+
+
+#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+#EXTINF:-1 group-logo="" group-title="3 beradik" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/ria.png" ,119 Ria(A)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://rr1---sn-uh-30alk.googlevideo.com/videoplayback?expire=1748626078&ei=PpY5aOLcFLaMg8UP9MeyuAw&ip=180.75.80.44&id=HNuiDXuNU7E.1&source=yt_live_broadcast&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1748604478%2C&mh=du&mm=44%2C29&mn=sn-uh-30alk%2Csn-30a7rne6&ms=lva%2Crdu&mv=m&mvi=2&pcm2cms=yes&pl=23&rms=lva%2Clva&initcwndbps=2730000&siu=1&spc=l3OVKV02QcFSKpqJ87aHGZBYiwaCGWKPLSqFhr9ubwMLxtdDPVaD6idcBUn42cgcOg&live=1&hang=1&noclen=1&svpuc=1&ns=wQ4FeOdal9dZ2yiPqACEar4Q&sabr=1&rqh=1&mt=1748604038&fvip=4&keepalive=yes&fexp=24350590,24350737,24350796,24350816,24350827,24350961,24350984,24351122,24351173,24351254,24351306,24351312,24351314,24351495,24351528,24351594,24351638,24351658,24351661,24351759,24351763,24351790,24351864,24351907,24352018,24352020,24352022,24352154,24352187,51355912,51466698&c=WEB&n=N7nljDGKhVAxIg&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Csiu%2Cspc%2Clive%2Chang%2Cnoclen%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AJfQdSswRQIhAOasZ9H0dNeG76C5NyWEfbxrV4WNpEds4nNMddB0GNNBAiB3GVCB-GVZa-zFEupvkVEcXENJa091rH_azaObF2FrXw%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgItCoGZ3zLKD1dFs3mAw6Qte2BcGGpWgMtMBmgxfC6KoCIQCAa7-XW-VAqSVH_krOTYu19pTVtIXEXHYaV0Ru1Li7FA%3D%3D&cpn=MrH8mQhHNx2EQVK3&cver=2.20250528.08.00&ir=1,&rr=46,&rn=25&alr=yes
+
+
+
