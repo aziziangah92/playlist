@@ -175,12 +175,6 @@ https://l02.dp.sooka.my/2104/linear/index.mpd|authorization=Bearer eyJhbGciOiJIU
 
 ======================================================================================================================================================
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="UCL" ch-number="801" tvg-name="UCL FINAL" group-title="Sports" ch-number="801" tvg-logo="https://www.google.com/imgres?q=ucl&imgurl=https%3A%2F%2Fcdn.fantasyfootballscout.co.uk%2Fwp-content%2Fuploads%2F2017%2F09%2FUCL_image_logo.jpg&imgrefurl=https%3A%2F%2Fwww.fantasyfootballscout.co.uk%2F2025%2F05%2F31%2Fucl-fantasy-matchday-17-fpl-reactions-team-reveal&docid=9d3s__9xeG6fPM&tbnid=KbGrYORpE_d0TM&vet=12ahUKEwjBsoGKtc6NAxXk6DQHHZLCFYAQM3oECBwQAA..i&w=1699&h=892&hcb=2&itg=1&ved=2ahUKEwjBsoGKtc6NAxXk6DQHHZLCFYAQM3oECBwQAA",UCL FINAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://tnt3-cf.boblcfwudz421.com/auth%3Dae3cc728ae03da9f3d4fac7b0864e604d16ceeb8c63b7b86040a15ca550d1002160de6abe469e2f98a62a44aad060cdfdcd3df83a60e0f82220241aa37de956cc01ef4a9fd32bd7ffcd59a748e88092a115f7203b8c24e11941d0e96cece5fe71cb67a8aa1fed0936153b3ccb7755441755cbc94341afad83d8c9942a0560f570e8797bf433292b527b1ce123c82c24da331d8bf2b820dc2487771b882f7e5e578f29f3008103511153cc7d3b55b5b26039744cedf16425d38caa975b020acda%26cid%3Dt6n8OSMvLki57zOgTPT1x241031%26_v%3D2%26_r%3D1n_ejn%26_vis%3D6feaa233f0551b178ddc521f16c89064819befcd526d349ed8d85420b9047a55%26_vvs%3D29f145d025c91fd59b9c99ff98406f0cc7a9d1af7ea07abb224aee4d9da31822/transcode/c353915_480p.m3u8
 
 #EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" ch-number="815" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",815 Astro Badminton HD
