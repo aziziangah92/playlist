@@ -126,7 +126,7 @@ https://get.perfecttv.net/astro_master.mpd?username=vip_3klp0es8&password=wg3piw
 #EXTINF:-1 tvg-id="AstroCitra" group-title="3 beradik" ch-number="108" group-logo="https://aqfadtv.xyz/images/astro.png" tvg-logo="https://aqfadtv.xyz/logos/Astro Citra (2024).png",Citra
 #http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
 
-#EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" group-logo="https://aqfadtv.xyz/images/astro.png" tvg-logo="https://aqfadtv.xyz/logos/Astro Prima (2024).png",Astro Prima (B)
+#EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" group-logo="https://aqfadtv.xyz/images/astro.png" tvg-logo="https://aqfadtv.xyz/logos/Astro Prima (2024).png",Astro Prima (A)
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1000/
 ##EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)"}
