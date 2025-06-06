@@ -174,7 +174,23 @@ https://get.perfecttv.net/astro_master.mpd?username=vip_3klp0es8&password=wg3piw
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Astro" group-title="Sports"  tvg-logo="https://get.perfecttv.net/logo/premierleague2C.png",807 Premier League 2 (C)
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ecad9adae8f44f0b1c8bf5c492da613:43ac85382893194802f0d34dbf71059e
+https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl2sd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkxODAxODYsImlzcyI6IlZSIiwiZXhwIjoxNzQ5MjQ5MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGZmMmM0YjAtNmQxMi00MTVjLWI4NzEtN2JlYmU0NDU5NTJmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjEwNCJ9.5LdRp48wGSg-cBJN_WKubPDWNGsnLDiQWrCZRU8ynq4
 
+#EXTINF:-1 tvg-id="" tvg-name="Astro" group-title="Sports"  tvg-logo="https://get.perfecttv.net/logo/premierleagueC.png",806 Premier League 1 (C)
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1090bef3275b45d188200b828fe30527:43eff6a8da896a34056f339ec9562045
+https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl1sd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkxODAxODYsImlzcyI6IlZSIiwiZXhwIjoxNzQ5MjQ5MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGZmMmM0YjAtNmQxMi00MTVjLWI4NzEtN2JlYmU0NDU5NTJmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNjAxIn0.6Y_1Eleq4aQCXYWmsGS2qvOKxmOT8lY6pqIZ99MuRSI
+
+==============================
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
