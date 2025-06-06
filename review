@@ -1016,16 +1016,18 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
 
 
-#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1 HD
+#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/711
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 1da23-12312-312534-2334-2645-2342-6-23-236-34223-1-2-343-43567-4-123-342)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
 
-#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1 HD(Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_1080p.m3u8
+#https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
 #EXTINF:-1 tvg-id="TV2" ch-number="102" tvg-name="TV2 HD" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png", 102 TV2 ᵃˢᵗʳᵒ ᵍᵒ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1034,7 +1036,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_ott.mpd
 
 #EXTINF:-1 tvg-id="TV2" ch-number="102" tvg-name="TV2 HD"" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png", 102 TV2 HD ʳᵗᵐ 
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
+#https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 tvg-id="TV3" group-title="Malaysia" ch-number="103" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/TV3.png",TV3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
