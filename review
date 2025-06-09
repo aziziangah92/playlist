@@ -215,9 +215,13 @@ https://l03.dp.sooka.my/2701/linear/index.mpd|authorization=Bearer eyJhbGciOiJIU
 
 =====
 
-#EXTINF:-1 tvg-name="AstroPremierLeague" group-title="Sports" ch-number="811" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",Astro Premier League
+#EXTM3U
+#EXTINF:-1 tvg-name="Astro Saluran 601" group-title="Astro TV",Astro Saluran 601
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-origin=https://tcb.homesecuritymac.com
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-accept-encoding=gzip, deflate, br, zstd
+#EXTVLCOPT:http-sec-ch-ua="Brave";v="137", "Chromium";v="137", "Not/A)Brand";v="24"
 https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
 
 =====
