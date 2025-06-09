@@ -213,13 +213,19 @@ https://l02.dp.sooka.my/5100/linear/index.mpd|authorization=Bearer eyJhbGciOiJIU
 #EXTINF:-1 tvg-id="AstroGrandstand" group-title="Sports" group-logo="" ch-number="810" tvg-logo="https://aqfadtv.xyz/logos/Astro Grandstand (2024).png",Astro Grandstand
 https://l03.dp.sooka.my/2701/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDk0MjQzOTIsImlzcyI6IlZSIiwiZXhwIjoxNzQ5NTA4MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMjhhNjA4OGMtMTMzOC00MjllLThkNjctYjU1Njg0ZDhlMzU2IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.lhKHxrmt_AmcRjoZgOk33mrNuNX4BwxEc28JbmUaz_s
 
+=====
+
+#EXTINF:-1 tvg-name="AstroPremierLeague" group-title="Sports" ch-number="811" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",Astro Premier League
+https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd|User-Agent=Mozilla/5.0%20(Linux;%20Android%206.0;%20Nexus%205%20Build/MRA58N)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/137.0.0.0%20Mobile%20Safari/537.36&Origin=https://tcb.homesecuritymac.com
+
+=====
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Q+/2qNqJajQFbzOeyVYgRQ","kid":"EJC+8ydbRdGIIAuCj+MFJw"}],"type":"temporary"}
 ##KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:edef8ba979d64acea3c827dcd51d21ed
 #KODIPROP:inputstream.adaptive.license_key={"bb2dc3cfa3024039ae59b55e6b0b5de5":"03d25d6ceb16fc4e007697e9d2124fac","1090bef3275b45d188200b828fe30527":"43eff6a8da896a34056f339ec9562045"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="AstroPremierLeague" group-title="Sports" group-logo="" ch-number="811" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",Astro Premier League
-https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
 #https://l01.dp.sooka.my/601/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDk0MjY0OTgsImlzcyI6IlZSIiwiZXhwIjoxNzQ5NTA4MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYzI0ODNiY2EtZmJmZi00NzFmLWE3OTEtY2I3ODM2ZGMxOTAwIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIiwicGF0dGVybiI6IjYwMSJ9.r095qhmLuLGXsH1ACZ-oUCY61XJE2UXBMbe89V0A0v0
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
