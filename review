@@ -374,6 +374,8 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 
 ======================================================================================================================================================
 
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"e/RmPkPNwne0rhghnIHSoQ","kid":"V4M8kAxMQ3+C2vZ4XrbvNg"}],"type":"temporary"}
 ##KODIPROP:inputstream.adaptive.license_key=fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28
@@ -454,6 +456,11 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 
 
 ######################################################################################################################################
+
+
+#EXTINF:-1 tvg-id="fifa club" tvg-name="fifa club" tvg-logo="da"<a href="https://i.ibb.co/RKLbtyV/zastavka.jpg" group-title="Sports",fifa club world cup
+https://tvmalaysia.website/memfs/9efd8077-a0e6-48b6-9372-18a100af6a53_output_0.m3u8
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
