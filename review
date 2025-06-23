@@ -1433,7 +1433,8 @@ https://get.perfecttv.net/astro_master.mpd?channel=astrovinmeen&username=vip_lev
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
 #EXTVLCOPT:http-user-agent=PerfectTv v3 (Android 9)
-https://get.perfecttv.net/astro_master.mpd?channel=astroABO&username=vip_level7&password=vip_level7
+#https://get.perfecttv.net/astro_master.mpd?channel=astroABO&username=vip_level7&password=vip_level7
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 
 #EXTINF:-1 group-title="Indian" tvg-id="201.astro" tvg-logo="https://get.perfecttv.net/logo/vaanavil.png" ,193 Vaanavil
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
