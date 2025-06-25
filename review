@@ -376,8 +376,9 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 ======================================================================================================================================================
 
 
-http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=57513&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="MY | Astro Premier League 1 FHD" group-title="SPORTS | Astro Sports",MY | Astro Premier League 1 FHD
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=57513&extension=ts
 
 http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=709263&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="MYS | Astro Premier League FHD" group-title="LIVE | World Sports",MYS | Astro Premier League FHD
