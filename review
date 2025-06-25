@@ -466,10 +466,6 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #https://fl3.moveonjoy.com/ESPN_U/index.m3u8
 #https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 
-#http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=617663&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA | NBA TV HD" group-title="Sports",NBA | NBA TV HD+
-https://fl3.moveonjoy.com/NBA_TV/index.m3u8
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
