@@ -376,7 +376,111 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 ======================================================================================================================================================
 
 
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=57513&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MY | Astro Premier League 1 FHD" group-title="SPORTS | Astro Sports",MY | Astro Premier League 1 FHD
 
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=709263&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MYS | Astro Premier League FHD" group-title="LIVE | World Sports",MYS | Astro Premier League FHD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=57500&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MY | Astro Premier League 1 HD" group-title="SPORTS | Astro Sports",MY | Astro Premier League 1 HD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=709262&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MY | Astro Premier League 2 FHD" group-title="SPORTS | Astro Sports",MY | Astro Premier League 2 FHD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=709261&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MYS | Astro Premier League 2 FHD" group-title="LIVE | World Sports",MYS | Astro Premier League 2 FHD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=57501&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MY | Astro Premier League 2 HD" group-title="SPORTS | Astro Sports",MY | Astro Premier League 2 HD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=709260&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MY | Astro Premier League 3 FHD" group-title="SPORTS | Astro Sports",MY | Astro Premier League 3 FHD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=848961&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MY | Astro Premier League 4 FHD" group-title="SPORTS | Astro Sports",MY | Astro Premier League 4 FHD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=848960&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MY | Astro Premier League 5 FHD" group-title="SPORTS | Astro Sports",MY | Astro Premier League 5 FHD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=848959&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MY | Astro Grandstand FHD" group-title="SPORTS | Astro Sports",MY | Astro Grandstand FHD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=709259&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MYS | Astro Grandstand FHD" group-title="LIVE | World Sports",MYS | Astro Grandstand FHD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=57502&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MY | Astro Grandstand HD" group-title="SPORTS | Astro Sports",MY | Astro Grandstand HD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=709258&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MY | Astro Football FHD" group-title="SPORTS | Astro Sports",MY | Astro Football FHD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=709257&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MYS | Astro Football FHD" group-title="LIVE | World Sports",MYS | Astro Football FHD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=57503&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MY | Astro Football HD" group-title="SPORTS | Astro Sports",MY | Astro Football HD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=709256&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MY | Astro Cricket FHD" group-title="SPORTS | Astro Sports",MY | Astro Cricket FHD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=709264&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MY | Astro Badminton" group-title="SPORTS | Astro Sports",MY | Astro Badminton
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=848711&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MY | Astro Badminton 2" group-title="SPORTS | Astro Sports",MY | Astro Badminton 2
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=848710&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MY | W-Sport FHD" group-title="SPORTS | Astro Sports",MY | W-Sport FHD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=709252&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MYS | W-Sport FHD" group-title="LIVE | World Sports",MYS | W-Sport FHD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=57510&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MY | beIN Sports 1 FHD" group-title="SPORTS | Astro Sports",MY | beIN Sports 1 FHD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=837115&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MY | beIN Sports 2 FHD" group-title="SPORTS | Astro Sports",MY | beIN Sports 2 FHD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=837114&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MY | beIN Sports 3 FHD" group-title="SPORTS | Astro Sports",MY | beIN Sports 3 FHD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=837113&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MY | Eurosport HD" group-title="SPORTS | Astro Sports",MY | Eurosport HD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=709265&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MY | Eurosport HD" group-title="LIVE | World Sports",MY | Eurosport HD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=57504&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MY | GNIX Sports HD" group-title="LIVE | World Sports",MY | GNIX Sports HD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=57505&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MYS | Astro WWE FHD" group-title="LIVE | World Sports",MYS | Astro WWE FHD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=57507&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MY | WWE Network HD" group-title="SPORTS | Astro Sports",MY | WWE Network HD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=709248&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MYS | Astro Golf FHD" group-title="LIVE | World Sports",MYS | Astro Golf FHD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=57509&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MY | SkyNet Golf FHD" group-title="SPORTS | Astro Sports",MY | SkyNet Golf FHD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=709249&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MY | Astro Arena HD" group-title="LIVE | World Sports",MY | Astro Arena HD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=57512&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MY | GNIX Sports HD" group-title="SPORTS | Astro Sports",MY | GNIX Sports HD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=709255&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MY | Astro Arena 2 HD" group-title="LIVE | World Sports",MY | Astro Arena 2 HD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=57511&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MY | Astro Arena FHD" group-title="SPORTS | Astro Sports",MY | Astro Arena FHD
+
+http://webo.asia/play/live.php?mac=00:1A:79:F1:5E:DE&stream=709254&extension=ts
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"e/RmPkPNwne0rhghnIHSoQ","kid":"V4M8kAxMQ3+C2vZ4XrbvNg"}],"type":"temporary"}
 ##KODIPROP:inputstream.adaptive.license_key=fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28
