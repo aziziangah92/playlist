@@ -1448,8 +1448,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 #EXTINF:-1 group-title="Indian" tvg-id="201.astro" tvg-logo="https://get.perfecttv.net/logo/vaanavil.png" ,193 Vaanavil
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=72499c6ad44cc37d95a9075420911110:b5416326114a13e90662a4fbaf3c532b
+#EXTVLCOPT:http-user-agent=PerfectTv v3 (Android 9)
 #https://get.perfecttv.net/astro_master.mpd?channel=astrovaanavil&username=vip_level7&password=vip_level7
-https://de6fd67c76a84e6c94aec45e5b113798.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH9-dash/vsg/41kh1nfIyxoNY7CMBsuPCOSV64-VO1foosg9Q3NwyIWp0=eCLY/dash-wv/jitp-dashisowm/2309/default_ott.mpd?aws.sessionId=7abb8616-4475-4be5-a79d-538131835e98
+https://de6fd67c76a84e6c94aec45e5b113798.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH9-dash/vsg/41kh1nfIyxoNY7CMBsuPCOSV64-VO1foosg9Q3NwyIWp0=eCLY/dash-wv/jitp-dashisowm/2309/default_ott.mpd?aws.sessionId=20148116-e0e5-44c6-b5b6-24e34708e141
 
 =============================================================================
   
