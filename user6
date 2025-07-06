@@ -40,7 +40,7 @@
 </body>
 </html>
 
-#EXTM3U url-tvg="https://mokm32.github.io/epg-astro/epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml" refresh="1440" max-conn="4" refresh="24" vod_library="https://mokm32.github.io/vod-top-20/,https://vod.pondan.workers.dev/dewanonton.json,https://mokm32.github.io/vodupdatenew/,https://mokm32.github.io/vod-aseanmovies/"
+#EXTM3U url-tvg="https://mokm32.github.io/epg-astro/epg.xml" refresh="1440" max-conn="4" refresh="24" vod_library="https://mokm32.github.io/vod-top-20/,https://vod.pondan.workers.dev/dewanonton.json,https://mokm32.github.io/vodupdatenew/,https://mokm32.github.io/vod-aseanmovies/"
 
 #EXTINF:-1 group-title="ORDER ID👉 SHOPEE NeckleNJ " group-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg" tvg-id="NeckleNJ" ch-number="100" tvg-name="NeckleNJ" tvg-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg", ID ORIGINAL KEDAI SHOPEE NeckleNJ
 https://archive.org/download/2025-01-16-03-39-44/2025-01-16%2003-39-44.mp4
@@ -68,7 +68,7 @@ https://archive.org/download/red-and-black-modern-opening-profile-youtube-intro-
 #KODIPROP:inputstream.adaptive.license_key=d5249cb40505495494828f42c37087cb:d59f6a7bed00bd5348355ab5b3ee6aa0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #https://l16.dp.sooka.my/1004/linear/index.mpd|authorization=Bearer 
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=riachd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE3NzExNTMsImlzcyI6IlZSIiwiZXhwIjoxNzUxODQxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMTAwNCJ9.quLwd630Sfxy0eMV-7gGkD6Vrz2Gug9-Wl5itvEyJ4o
+https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=riachd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE4NDAyMjQsImlzcyI6IlZSIiwiZXhwIjoxNzUxODY5MDI0LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMTAwNCJ9.YcGWHlV1C4P6VJk6U815wnFKVQ5IDbw52vG0l8-lm3Q
 
 
 #EXTINF:-1 tvg-id="105.astro" group-title="3 beradik" ch-number="105" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/Astro Prima (2024).png",PRIMA HD
@@ -78,7 +78,7 @@ https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 #KODIPROP:inputstream.adaptive.license_key={"21759e73f142452aa01acc6d08a86e50":"fc9eaf659647c675315f65747c2553da","6613bc303647468c974c3c839d5201e9":"5422811c83996a25f51229219b41c410"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #https://l18.dp.sooka.my/1000/linear/index.mpd|authorization=Bearer 
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=primachd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE3NzExNjMsImlzcyI6IlZSIiwiZXhwIjoxNzUxODQxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMTAwMCJ9.7daxCMP05L_Nujv422z4Nv0PSi4OAmdrFgPZ6ov7AMw
+https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=primachd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE4NDAyMzQsImlzcyI6IlZSIiwiZXhwIjoxNzUxODY5MDM0LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMTAwMCJ9.T__V8YZm8kJtjoj7USIhlorjINci3S1hyjr4weSAkRc
 
 
 #EXTINF:-1 tvg-id="108.astro" tvg-name="121 Citra(B)" tvg-logo="https://get.perfecttv.net/logo/citra.png" group-title="3 beradik",CITRA HD
@@ -110,7 +110,7 @@ https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.co
 #KODIPROP:inputstream.adaptive.license_key=c15541e4dde34c48a0d144a4b0ab7194:ce82e3d81126183e5a262e320f6348b3
 ##KODIPROP:inputstream.adaptive.license_key=d5249cb40505495494828f42c37087cb:d59f6a7bed00bd5348355ab5b3ee6aa0
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=riafhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE3NzExNTMsImlzcyI6IlZSIiwiZXhwIjoxNzUxODQxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMTAwNCJ9.quLwd630Sfxy0eMV-7gGkD6Vrz2Gug9-Wl5itvEyJ4o
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=riafhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE4NDAyMjQsImlzcyI6IlZSIiwiZXhwIjoxNzUxODY5MDI0LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMTAwNCJ9.YcGWHlV1C4P6VJk6U815wnFKVQ5IDbw52vG0l8-lm3Q
 
 ==========================================================================================================
 
@@ -196,7 +196,7 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #EXTINF:-1 tvg-id="801.astro" ch-number="801" tvg-name="Astro Arena HD" group-title="Sports" ch-number="801" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png",ARENA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
-#https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=arenafhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE3NzExNTQsImlzcyI6IlZSIiwiZXhwIjoxNzUxODQxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjYwNCJ9.czQobRVP6TfV_uetIoHdxRoIkpGk1gsZGQWPz6HaggE
+#https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=arenafhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE4NDAyMjUsImlzcyI6IlZSIiwiZXhwIjoxNzUxODY5MDI1LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjYwNCJ9.sdRqf1paxScTGfmdXrfsg1StqKgXG0ZXqvhwfJ8y6Io
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -206,7 +206,7 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #EXTINF:-1 tvg-id="802.astro" ch-number="802" tvg-name="Astro Arena 2 HD" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png",ARENA 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=arena2fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE3NzExNTUsImlzcyI6IlZSIiwiZXhwIjoxNzUxODQxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA1NyJ9.l4AvWUlaWkf_zne6KHD8knQwc6ENoDK-9MVSEsyiwGQ
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=arena2fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE4NDAyMjYsImlzcyI6IlZSIiwiZXhwIjoxNzUxODY5MDI2LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA1NyJ9.cADkak07mV18DY2Fnk6nSLhV7rYfSdDg9V53YDPqNr8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"e/RmPkPNwne0rhghnIHSoQ","kid":"V4M8kAxMQ3+C2vZ4XrbvNg"}],"type":"temporary"}
@@ -217,7 +217,7 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #EXTINF:-1 tvg-id="803.astro" ch-number="803" group-title="Sports" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/Astro Arena Bola (2024).png",ARENA BOLA
 #https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola1sd|authorization=Bearer 
 #ttps://l01.dp.sooka.my/5099/linear/index.mpd|authorization=Bearer 
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola1fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE3NzExNTUsImlzcyI6IlZSIiwiZXhwIjoxNzUxODQxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA5OSJ9.f1rGHL5AVTF6U7dTg6iCQV9tkyAoAwCcchF60HTBqd0
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola1fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE4NDAyMjYsImlzcyI6IlZSIiwiZXhwIjoxNzUxODY5MDI2LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA5OSJ9.HDqamhInA5OtA9oy81kaCf3Qg-KlUwSSpTJ2AA3ubGA
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fsjEGG32mljPZAKRp8msfA","kid":"ExSRT7T5SYS3p1cqA7afkw"}],"type":"temporary"}
@@ -228,7 +228,7 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #EXTINF:-1 tvg-id="804.astro" ch-number="804" group-title="Sports" tvg-logo="https://aqfadtv.xyz/logos/Astro Arena Bola 2 (2024).png",ARENA BOLA 2
 #https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola2sd|authorization=Bearer 
 #ttps://l02.dp.sooka.my/5100/linear/index.mpd|authorization=Bearer 
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola2fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE3NzExNTYsImlzcyI6IlZSIiwiZXhwIjoxNzUxODQxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTEwMCJ9.LTg7_lV6cOEPRpNmzRybjDOMN5QBl7J6LW_V4cgcuLQ
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola2fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE4NDAyMjcsImlzcyI6IlZSIiwiZXhwIjoxNzUxODY5MDI3LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTEwMCJ9.nVjMSiYYZ1TNPVtU3iyJDqpOsGo7P4WMV4qdveQj9WE
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Q+/2qNqJajQFbzOeyVYgRQ","kid":"EJC+8ydbRdGIIAuCj+MFJw"}],"type":"temporary"}
@@ -241,7 +241,7 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
 #https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl1sd|authorization=Bearer 
 #ttps://l01.dp.sooka.my/601/linear/index.mpd|authorization=Bearer 
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl1fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE3NzExNTQsImlzcyI6IlZSIiwiZXhwIjoxNzUxODQxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNjAxIn0.76ePNlsRQJ6gTW7flsF2ZSoaIOOfKseKfe5I9mguqTc
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl1fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE4NDAyMjUsImlzcyI6IlZSIiwiZXhwIjoxNzUxODY5MDI1LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNjAxIn0.43lGGYzFSCzFy9FDX01wgSExIBASOKn0CLtaaZ13F40
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Q6yFOCiTGUgC8NNNv3EFng","kid":"TsrZra6PRPCxyL9cSS2mEw"}],"type":"temporary"}
@@ -252,7 +252,7 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #EXTINF:-1 tvg-id="812.astro" group-title="Sports" group-logo="" ch-number="812" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",Astro Premier League 2
 #https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl2sd|authorization=Bearer 
 #ttps://l02.dp.sooka.my/2104/linear/index.mpd|authorization=Bearer 
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl2fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE3NzExNTQsImlzcyI6IlZSIiwiZXhwIjoxNzUxODQxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjEwNCJ9.z_IIDO5NeVa_YLcu6nDFjszyklj5NwxXqPp8xg_F4wQ
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl2fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE4NDAyMjUsImlzcyI6IlZSIiwiZXhwIjoxNzUxODY5MDI1LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjEwNCJ9.ke7y0pYpXeBbzK7TvptkScD7Zj5NqRt7MyCa_wcrHDM
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+JiYGE7ZIeIlzYn00uoQNQ","kid":"UFrvzakIT4O8XGzFPw75xg"}],"type":"temporary"}
@@ -263,7 +263,7 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #EXTINF:-1 tvg-id="810.astro" group-title="Sports" group-logo="" ch-number="810" tvg-logo="https://aqfadtv.xyz/logos/Astro Grandstand (2024).png",Astro Grandstand
 #https://get.perfecttv.net/linear.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=grandstandsd|authorization=Bearer 
 #ttps://l03.dp.sooka.my/2701/linear/index.mpd|authorization=Bearer 
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=granstandfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE3NzExNTYsImlzcyI6IlZSIiwiZXhwIjoxNzUxODQxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjcwMSJ9.5GV97QQNdiRbSyYFH43nutNb7e36Fq8kSdGdpEKF07I
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=granstandfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE4NDAyMjcsImlzcyI6IlZSIiwiZXhwIjoxNzUxODY5MDI3LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjcwMSJ9.6TDTd6NGd2_5-Wzckvs8udDrMV-VkNtDF8TDY7mdIio
 
 #EXTINF:-1 tvg-id="814.astro" group-title="Sports" group-logo="" ch-number="814" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png",Astro Football
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -274,7 +274,7 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 ##KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2506/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=footballfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE3NzExNTYsImlzcyI6IlZSIiwiZXhwIjoxNzUxODQxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjUwNiJ9.-KlDg5OtDDwxKA4hFfoS2zecA1j-iZeiKcivVWDmkOI
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=footballfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE4NDAyMjcsImlzcyI6IlZSIiwiZXhwIjoxNzUxODY5MDI3LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjUwNiJ9.amAOM4Bxmouzf-01lhp14oO1BERFpcIFCLJlwLrlfIA
 
 #EXTINF:-1 tvg-id="815.astro" ch-number="815" group-title="Sports" ch-number="815" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",Astro Badminton
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -284,7 +284,7 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #https://get.perfecttv.net/720.mpd?channel=badmintonsd|authorization=Bearer 
 #https://l17.dp.sooka.my/5170/linear/index.mpd|authorization=Bearer 
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=badmintonfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE3NzExNTcsImlzcyI6IlZSIiwiZXhwIjoxNzUxODQxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTE3MCJ9.MEvOyEnwHp_mTk_CkJGsTtYMXj160XNhiNHd9gEh0y8
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=badmintonfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE4NDAyMjgsImlzcyI6IlZSIiwiZXhwIjoxNzUxODY5MDI4LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTE3MCJ9.NZ8kfTWHjRW8c8eLtNiRbcRvpHxcbP8y6VCb-L5Q9WM
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -297,7 +297,7 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd
 #https://get.perfecttv.net/720.mpd?channel=sportplussd|authorization=Bearer 
 #https://l16.dp.sooka.my/5171/linear/index.mpd|authorization=Bearer 
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sportplusfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE3NzExNTcsImlzcyI6IlZSIiwiZXhwIjoxNzUxODQxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTE3MSJ9.5mOpzRVlplSbh-WbIlCk5lSMxGIBqL7SqeMzCLWvJlM
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sportplusfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE4NDAyMjgsImlzcyI6IlZSIiwiZXhwIjoxNzUxODY5MDI4LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTE3MSJ9.HneYbJqhSMQ14gQW6C5Mjb481kl4CtVE4sHUqmE0aPE
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -307,7 +307,7 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #EXTINF:-1 tvg-id="832.astro" ch-number="832" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Astro_Cricket_%282024%29.png",ASTRO CRICKET
 #EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #https://l02.dp.sooka.my/2504/linear/index.mpd|authorization=Bearer 
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=cricketfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE3NzExNTgsImlzcyI6IlZSIiwiZXhwIjoxNzUxODQxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjUwNCJ9.sp1u1GyFBgBXkazCV2RwXMcJ7QEVi2aNa9e02vAMwK0
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=cricketfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE4NDAyMjksImlzcyI6IlZSIiwiZXhwIjoxNzUxODY5MDI5LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjUwNCJ9.jSU4VdlTmR1mcovu6mgKYkySbPL1pDQf2AbkM9R-g4Y
 
 #EXTINF:-1 tvg-id="820.astro" group-title="Sports" group-logo="" ch-number="820" tvg-logo="https://aqfadtv.xyz/logos/beIN Sports 1.png",beIN SPORTS
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -318,7 +318,7 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 ##KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/408
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bein1fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE3NzExNTgsImlzcyI6IlZSIiwiZXhwIjoxNzUxODQxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNDA4In0.cc7Pqo6QgMjLZZk4VgW0gIg5Z-_j_vibzk24WUxXMa4
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bein1fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE4NDAyMjksImlzcyI6IlZSIiwiZXhwIjoxNzUxODY5MDI5LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNDA4In0.hQn8PTjA-me6mvZ8VC_2MGtxcUXzc4ClQAd9LRoiUtc
 
 #EXTINF:-1 tvg-id="821.astro" ch-number="821" group-title="Sports" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/beINSports2.png",beIN SPORTS 2
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -329,7 +329,7 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 ##KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5066
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bein2fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE3NzExNTksImlzcyI6IlZSIiwiZXhwIjoxNzUxODQxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA2NiJ9.pS6-W_nH681VHmXLgkwiMU0ZBMMRzm9C6cAPJqBsgEg
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bein2fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE4NDAyMjksImlzcyI6IlZSIiwiZXhwIjoxNzUxODY5MDI5LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA2NiJ9.MqvwlUULGS_p7QRbDHW1A_Aoevwrf2EyAxs6n7Q4_Jk
 
 #EXTINF:-1 tvg-id="822.astro" group-title="Sports" group-logo="" ch-number="822" tvg-logo="https://aqfadtv.xyz/logos/beINSports3.png",bEIN SPORTS 3
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -340,7 +340,7 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 ##KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2705
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bein3fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE3NzExNTksImlzcyI6IlZSIiwiZXhwIjoxNzUxODQxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjcwNSJ9.gy3HR09IX1UDfVPYB6EAlEX7CWgLwN_-aops2kw-468
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bein3fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE4NDAyMzAsImlzcyI6IlZSIiwiZXhwIjoxNzUxODY5MDMwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjcwNSJ9.QnWtcx5nOEFNPI2H17cw_AdMXIxBfvTU45Rb99kpqNw
 
 #EXTINF:-1 tvg-id="823.astro" tvg-name="SPOTV" group-title="Sports" ch-number="816" tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/logo-SPOTV.png",SPOTV
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -351,7 +351,7 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 ##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dYgj5Oq7bkyMA20HPbRrjA","kid":"wOGASqHZ/ZxBxBvw9hpfEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=spotvfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE3NzExNTksImlzcyI6IlZSIiwiZXhwIjoxNzUxODQxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA1OCJ9.nSqUZolPAL5PiVw80xfgDgxIp0Hy_BpjThIT6n86QPo
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=spotvfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE4NDAyMzAsImlzcyI6IlZSIiwiZXhwIjoxNzUxODY5MDMwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA1OCJ9.qZofcrX-i0TliqePk_9K0dJMsKvPdscd9dQnFRR5axY
 
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -362,7 +362,7 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #EXTINF:-1 tvg-id="824.astro" ch-number="824" tvg-name="SPOTV2" group-title="Sports" tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/logo-SPOTV2.png",SPOTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=spotv2fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE3NzExNjAsImlzcyI6IlZSIiwiZXhwIjoxNzUxODQxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA3OSJ9.yVjiHxYaVRKYzVf7mpCBSmN-ci9SnYizt6c7tsZdAIM
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=spotv2fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE4NDAyMzEsImlzcyI6IlZSIiwiZXhwIjoxNzUxODY5MDMxLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA3OSJ9.q5jtUBLn0lQgBW-hjZD5Hb3ZmX9tXJSmTv1MUpjpJwc
 
 #EXTINF: -1 tvg-id="826.astro" group-title="Sports" group-logo="" ch-number="826" tvg-logo="https://telegra.ph/file/ee3bff6d510fb4ac3f386.png",W-Sport
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -373,7 +373,8 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 ##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nNXA0eVMIuA12I3Twd/ITA","kid":"AQy7nPGgHq04Bwcw04vHEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=wsportfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE3NzExNjAsImlzcyI6IlZSIiwiZXhwIjoxNzUxODQxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA2MCJ9.LghQstGTvgWCH5k4mdiTxT7CeweAdwFEqnGl1J8s2fY
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=wsportfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE4NDAyMzEsImlzcyI6IlZSIiwiZXhwIjoxNzUxODY5MDMxLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA2MCJ9.K5m4TPL6WYVEcqDOuKhdAT_pOmE9LnI1qJyx-7dkl48
+
 
 ======================================================================================================================================================
 #EXTINF:-1 tvg-id="820.astro" ch-number="708" tvg-name="beIN Sports" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title="Sports",812 beIN 1 HD+
@@ -502,7 +503,7 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="801.astro" ch-number="801" tvg-name="Astro Arena HD" group-title="Sports" ch-number="801" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png",ARENA HD
+#EXTINF:-1 tvg-id="801.astro" ch-number="801" tvg-name="ARENA HD" group-title="Sports" ch-number="801" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png",ARENA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
@@ -550,14 +551,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=3225f837a4b95d6e46683c53818c1710:3e1b57c06699c7e408e7aa49ff57d4f4
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=astrogo
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_ott.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_ott.mpd
 
 #EXTINF:-1 tvg-id="819.astro" group-title="Sports" ch-number="819" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",819 Astro PremierLeague 5 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=229670469469aa6f78bc5bbe10071810:3b3ede68e8bb9d0d4e3b4517c422cccf
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=astrogo
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_ott.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 ##KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; T506D Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6204.0 Safari/537.36
@@ -1170,7 +1171,7 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 ##KODIPROP:inputstream.adaptive.license_key={"655b6df8085d4fe6b3f71c0f4288f98a":"5f0d4251e05e0a3a661218169ee84181","d66e2fe5f045426195d432802f9ba807":"6fe283a6f1f3a3fb69f82c4340e0dde2"}
 #EXTINF:-1 tvg-id="306.astro" ch-number="306" group-title="Chinese" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/Astro AEC (2024).png",AEC HD
 #https://l04.dp.sooka.my/2400/linear/index.mpd|authorization=Bearer 
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=aecfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE3NzExNjEsImlzcyI6IlZSIiwiZXhwIjoxNzUxODQxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjQwMCJ9.pmgcMGovuzbxrgnXyZpBGdIEXh5cUEk7XrUOFd-XU2s
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=aecfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE4NDAyMzIsImlzcyI6IlZSIiwiZXhwIjoxNzUxODY5MDMyLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjQwMCJ9.revA-XJ7BSVBMRazDN-TPRMP6yEtszYZZLt9xDuFLIU
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=06282157da4e8f97623a70ed017fad10:8da72ca8501a4deb4bfc381fe1737ef4
@@ -1194,7 +1195,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_ott.mpd
 ##KODIPROP:inputstream.adaptive.license_key={"36978c8e295e42ccbcc45d719e32e7f3":"22c4936cc4dcab2daf96a36a5c12257e","f5e95e7e52194b8f8e254a75ef1904dc":"40f8e7cc17810c91dfa22a52e72af7e8"}
 #EXTINF:-1 tvg-id="308.astro" ch-number="308" group-title="Chinese" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/Astro QJ (2024).png",QJ HD
 #https://l01.dp.sooka.my/2507/linear/index.mpd|authorization=Bearer 
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=qjfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE3NzExNjEsImlzcyI6IlZSIiwiZXhwIjoxNzUxODQxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjUwNyJ9.lcGLYsQzFNXlgruy_PRVxkP9edin5uDcNtyMVgkqPeQ
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=qjfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE4NDAyMzIsImlzcyI6IlZSIiwiZXhwIjoxNzUxODY5MDMyLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiY2NkYzNkZTItOGMwMC00NmZkLTkwNjktYzFiYWI5MTg0NGFmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjUwNyJ9.1kIJxVI6CBRuUrcR3nzo2XwlOK_sKwI50qm1cd57GTo
 
 
 ================================================================================
@@ -1943,7 +1944,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/mrNKFM6V/Untitled-design.png" 
 
-#EXTINF:-1 tvg-id="Lifetime" ch-number="703" tvg-name="Lifetime HD" ch-number="703" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" group-title="Entertainment",703 Lifetime (MY)
+#EXTINF:-1 tvg-id="703.astro" ch-number="703" tvg-name="Lifetime HD" ch-number="703" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" group-title="Entertainment",Lifetime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GDs+r6TILmj3TEJE1UkGsA", "kid":"jeEeAF21vQ24IogUhjzTEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
@@ -1961,7 +1962,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
   
-#EXTINF:-1 tvg-id="AFN" ch-number="709" tvg-name="Asian Food Network HD" group-title="Entertainment" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png",709 Asian Food Network
+#EXTINF:-1 tvg-id="709.astro" ch-number="709" tvg-name="Asian Food Network HD" group-title="Entertainment" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png",AFN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zwz/tje4FZiie9aw2Q1lqA", "kid":"NGufQeKTN0jIhh+Cky4BEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
@@ -1973,13 +1974,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
 
-#EXTINF:-1 tvg-id="MTVLive" tvg-logo="https://static.epg.best/il/MTV.il.png" group-title="Entertainment",718 MTV Live
+#EXTINF:-1 tvg-id="718.astro" tvg-logo="https://static.epg.best/il/MTV.il.png" group-title="Entertainment",MTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IvlkptaSfM26SC53XN/xkA", "kid":"OsJUKk9750ZjPbB2R0UXEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 
-#EXTINF:-1 tvg-id="HITSNow" group-title="Entertainment" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/HITSNow.png", ch-number="702",702 HITS Now
+#EXTINF:-1 tvg-id="702.astro" group-title="Entertainment" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/HITSNow.png", ch-number="702",HITS NOW
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5110
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
@@ -2390,19 +2391,19 @@ https://f9169865dbd747b4a24602e856a9c7a2.mediatailor.ap-southeast-1.amazonaws.co
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
   
-#EXTINF:-1 tvg-id="DiscoveryChannel" ch-number=" " tvg-name="Discovery Channel HD" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" ch-number="552",552 Discovery Channel
+#EXTINF:-1 tvg-id="552.astro" ch-number=" " tvg-name="Discovery Channel HD" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" ch-number="552",DISCOVERY HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"A++I3xpHZp5UWeEF47U1sQ", "kid":"J2dnpXiq4urLKEJHzNnrEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
   
-#EXTINF:-1 tvg-id="DiscoveryAsia" ch-number=" " tvg-name="Discovery Asia HD" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/136_144.png" ch-number="553",553 Discovery Asia
+#EXTINF:-1 tvg-id="553.astro" ch-number=" " tvg-name="Discovery Asia HD" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/136_144.png" ch-number="553",DISCOVERY ASIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w6WOyGfMJYKeH76JOEQlUw", "kid":"P/AvzYDC4yMMUq5w/pA0EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
   
-#EXTINF:-1 tvg-id="History" ch-number=" " tvg-name="History HD" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" ch-number="555",555 History 
+#EXTINF:-1 tvg-id="555.astro" ch-number=" " tvg-name="History HD" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" ch-number="555",HISTORY HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NFgmX3Uwvx/vIEyoy0aJ2w", "kid":"P+7MNpMHMsu2kwbcaHxvEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
@@ -2414,7 +2415,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
   
-#EXTINF:-1 tvg-id="BBCEarth" ch-number=" " tvg-name="BBC Earth" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/452_144.png" ch-number="554",554 BBC Earth
+#EXTINF:-1 tvg-id="554.astro" ch-number=" " tvg-name="BBC Earth" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/452_144.png" ch-number="554",BBC Earth
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uxvbJ8xf4exjfSV5mTRMww", "kid":"2/Yv8IBLxbjVI+8AnXhjEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
@@ -2426,19 +2427,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd
   
-#EXTINF:-1 tvg-id="LoveNature" ch-number=" " tvg-name="Love Nature" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png",550 Love Nature
+#EXTINF:-1 tvg-id="550.astro" ch-number=" " tvg-name="Love Nature" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png",Love Nature
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d1plTAYQgRrQIjKaaIhN4Q","kid":"FovYFUaGOf5FKLS/AUHzEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
   
-#EXTINF:-1 tvg-id="LoveNature" ch-number=" " tvg-name="Love Nature 4K" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png",551 Love Nature 4K
+#EXTINF:-1 tvg-id="549.astro" ch-number=" " tvg-name="Love Nature 4K" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png",Love Nature 4K
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btySxJvoTKei8ye+r7zK5g", "kid":"Gv3K9BmL/TIAWERp/D5REA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default_ott.mpd
 
-#EXTINF:-1 tvg-id="GlobalTrekker" ch-number=" " tvg-name="Global Trekker" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/482_144.png" ch-number="551",551 Global Trekker
+#EXTINF:-1 tvg-id="551.astro" ch-number=" " tvg-name="Global Trekker" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/482_144.png" ch-number="551",Global Trekker
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L7Oas/VTM9X6PoMOv5nsFg", "kid":"ktNKhPro5U3gqClimUG+EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
@@ -2450,7 +2451,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
 
-#EXTINF:-1 tvg-id="HGTV" ch-number=" " tvg-name="HGTV" ch-number="715" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png" ch-number="715",715 HGTV
+#EXTINF:-1 tvg-id="715.astro" ch-number=" " tvg-name="HGTV" ch-number="715" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png" ch-number="715",HGTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KmlbBG589YEaY00TSEQRlQ", "kid":"jBuzCZVe7jKII5Cr6+GYEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
@@ -2602,11 +2603,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c3f8f12a93c2d61b9990a
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UlUQz6Y0vWMK+MlfqTV2yg", "kid":"bwbzs898utDMiyHiyU37EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="501" ch-number:"AstroAwani" ch-number=" " tvg-name="Astro Awani HD" group-title="News" group-logo="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png",501 Astro Awani 
+#EXTINF:-1 tvg-id="501.astro" ch-number:"AstroAwani" ch-number=" " tvg-name="Astro Awani HD" group-title="News" group-logo="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png",AWANI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
   
-#EXTINF:-1 tvg-id="631.unifi" ch-number="502" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",502 Bernama
+#EXTINF:-1 tvg-id="502.astro" ch-number="502" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",BERNAMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OaJ6osyEoptmX8xNv5xUtg","kid":"FAa78hjKFPlnA0/PSr93EA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
@@ -2616,7 +2617,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d+wO6yHAeBL9fFhig2bMsw", "kid":"AXZ9HCMVwOlVb0d/sfDHEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="BBCNews" group-title="News" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201910/20191017/20191017092229933nmy.png" ch-number="512",512 BBC World News 
+#EXTINF:-1 tvg-id="512.astro" group-title="News" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201910/20191017/20191017092229933nmy.png" ch-number="512",BBC News HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_ott.mpd
 
@@ -2624,11 +2625,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RCdYhO45TQUIH945X/bkFQ", "kid":"+BKurmvluSSoGBtRLV15EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="CNA" ch-number=" " tvg-name="CNA HD" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",515 CNA HD
+#EXTINF:-1 tvg-id="515.astro" ch-number=" " tvg-name="CNA HD" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd
 
-#EXTINF:-1 tvg-id="511" ch-number="511" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png", 511 CNN HD
+#EXTINF:-1 tvg-id="511.astro" ch-number="511" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png", CNN HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2636,13 +2637,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd
 
-#EXTINF:-1 tvg-id="CNBCAsia" group-title="News" tvg-logo="https://i.postimg.cc/76CXD57r/CNBCAsia.png" ch-number="516",516 CNBC Asia HD
+#EXTINF:-1 tvg-id="516.astro" group-title="News" tvg-logo="https://i.postimg.cc/76CXD57r/CNBCAsia.png" ch-number="516",CNBC HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YCgnqHDUmGLRoj8pEpV7TA","kid":"w6OPE0BTF1mhype8XYDIEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd
 
-#EXTINF:-1 tvg-id="BloombergTV" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png" ch-number="517",517 Bloomberg 
+#EXTINF:-1 tvg-id="517.astro" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png" ch-number="517",BLOOMBERG  TV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2650,19 +2651,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_ott.mpd
   
-#EXTINF:-1 tvg-id="CGTN" ch-number="503" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",503 CGTN 
+#EXTINF:-1 tvg-id="503.astro" ch-number="503" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",CGTN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nnBhYfAvuZy2ktKWVHBJTg","kid":"/GbvDuNbW6Y53A4TxfipEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5019/default_ott.mpd
 
-#EXTINF:-1 tvg-id="SkyNews" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png" ch-number="514",514 Sky News HD
+#EXTINF:-1 tvg-id="14.astro" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png" ch-number="514",SKY NEWS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sNrddLcT5LKf0n4UfK5xMw","kid":"S+9/wby2vX8ofe+UDjjLEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_ott.mpd
   
-#EXTINF:-1 tvg-id="AlJazeeraEnglish" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png" ch-number="513",513 Al Jazeera English HD
+#EXTINF:-1 tvg-id="513.astro" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png" ch-number="513",AL JAZEERA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bDxJgROr/99FTck1MZp5TQ","kid":"sfvQh055I/WwWSmgQqoGEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
