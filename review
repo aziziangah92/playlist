@@ -724,51 +724,50 @@ https://get.perfecttv.net/mutv.mpd
 
 
 
-
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=987846&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AR BEIN SPORTS 1" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", AR - BEIN SPORTS 1 
+#EXTINF:-1 tvg-id="BEINSPORTS1" tvg-name="AR BEIN SPORTS 1" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title="BEIN SPORTS",AR - BEIN SPORTS 1 
 
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=987845&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AR BEIN SPORTS 2" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", AR - BEIN SPORTS 2 
+#EXTINF:-1 tvg-id="BEINSPORTS2" tvg-name="AR BEIN SPORTS 2" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title="BEIN SPORTS",AR - BEIN SPORTS 2 
 
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=987844&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AR BEIN SPORTS 3" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", AR - BEIN SPORTS 3 
+#EXTINF:-1 tvg-id="BEINSPORTS3" tvg-name="AR BEIN SPORTS 3" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title="BEIN SPORTS",AR - BEIN SPORTS 3 
 
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=987843&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AR BEIN SPORTS 4" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", AR - BEIN SPORTS 4 
+#EXTINF:-1 tvg-id="BEINSPORTS4" tvg-name="AR BEIN SPORTS 4" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title="BEIN SPORTS",AR - BEIN SPORTS 4 
 
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=987842&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AR BEIN SPORTS 5" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", AR - BEIN SPORTS 5 
+#EXTINF:-1 tvg-id="BEINSPORTS5" tvg-name="AR BEIN SPORTS 5" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title="BEIN SPORTS",AR - BEIN SPORTS 5 
 
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=987841&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AR BEIN SPORTS 6" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", AR - BEIN SPORTS 6 
+#EXTINF:-1 tvg-id="BEINSPORTS6" tvg-name="AR BEIN SPORTS 6" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title="BEIN SPORTS",AR - BEIN SPORTS 6 
 
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=987840&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AR BEIN SPORTS 7" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", AR - BEIN SPORTS 7 
+#EXTINF:-1 tvg-id="BEINSPORTS7" tvg-name="AR BEIN SPORTS 7" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title="BEIN SPORTS",AR - BEIN SPORTS 7 
 
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=987839&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AR BEIN SPORTS 8" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", AR - BEIN SPORTS 8 
+#EXTINF:-1 tvg-id="BEINSPORTS8" tvg-name="AR BEIN SPORTS 8" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title="BEIN SPORTS",AR - BEIN SPORTS 8 
 
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=987838&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AR BEIN SPORTS 9" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", AR - BEIN SPORTS 9 
+#EXTINF:-1 tvg-id="BEINSPORTS9" tvg-name="AR BEIN SPORTS 9" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title="BEIN SPORTS",AR - BEIN SPORTS 9 
 
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=987837&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AR BEIN SPORTS XTRA 1" tvg-logo="https://i.ibb.co/fd3yH31v/be-IN-SPORTS-XTRA-Logo-removebg-preview.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", AR - BEIN SPORTS XTRA 1 
+#EXTINF:-1 tvg-id="SPORTSXTRA1" tvg-name="AR BEIN SPORTS XTRA 1" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title=BEIN SPORTS",AR - BEIN SPORTS XTRA 1 
 
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=987836&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AR BEIN SPORTS XTRA 2" tvg-logo="https://i.ibb.co/fd3yH31v/be-IN-SPORTS-XTRA-Logo-removebg-preview.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", AR - BEIN SPORTS XTRA 2 
+#EXTINF:-1 tvg-id="SPORTSXTRA2" tvg-name="AR BEIN SPORTS XTRA 2" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title="BEIN SPORTS",AR - BEIN SPORTS XTRA 2 
 
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=987835&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AR BEIN SPORTS XTRA 3" tvg-logo="https://i.ibb.co/fd3yH31v/be-IN-SPORTS-XTRA-Logo-removebg-preview.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", AR - BEIN SPORTS XTRA 3 
+#EXTINF:-1 tvg-id="SPORTSXTRA3" tvg-name="AR BEIN SPORTS XTRA 3" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title="BEIN SPORTS,AR - BEIN SPORTS XTRA 3 
 
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=987834&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AR BEIN SPORTS AFC" tvg-logo="https://i.ibb.co/1GVxgZHM/images-1-removebg-preview.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", AR - BEIN SPORTS AFC 
+#EXTINF:-1 tvg-id="BEINSPORTSAFC" tvg-name="AR BEIN SPORTS AFC" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title="BEIN SPORTS",AR - BEIN SPORTS AFC 
 
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=987833&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AR BEIN SPORTS AFC" tvg-logo="https://i.ibb.co/1GVxgZHM/images-1-removebg-preview.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", AR - BEIN SPORTS 1 AFC 
+#EXTINF:-1 tvg-id="BEINSPORTSAFC1" tvg-name="AR BEIN SPORTS AFC" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title="BEIN SPORTS",AR - BEIN SPORTS 1 AFC 
 
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=987832&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AR BEIN SPORTS AFC" tvg-logo="https://i.ibb.co/1GVxgZHM/images-1-removebg-preview.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", AR - BEIN SPORTS 2 AFC 
+#EXTINF:-1 tvg-id="BEINSPORTSAFC2" tvg-name="AR BEIN SPORTS AFC" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title="BEIN SPORTS",AR - BEIN SPORTS 2 AFC 
 
 
 ########################################################################################################################
