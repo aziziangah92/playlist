@@ -598,7 +598,7 @@ https://l18.dp.sooka.my/1601/linear/index.mpd|authorization=Bearer eyJhbGciOiJIU
 #=KODIPROP:inputstream.adaptive.license_key=57833c900c4c437f82daf6785eb6ef36:7bf4663e43cdc277b4ae18219c81d2a1
 #KODIPROP:inputstream.adaptive.license_key={"57833c900c4c437f82daf6785eb6ef36":"7bf4663e43cdc277b4ae18219c81d2a1","fb06bb8266fb4a998e7c4e7e90461556":"52242587d8106c4b3ed596c7a56b4e28"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" group-title="Sports" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/Astro Arena Bola (2024).png",Astro Arena Bola
+#EXTINF:-1 tvg-id="803.astro" ch-number="803" group-title="Sports" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/Astro Arena Bola (2024).png",Astro Arena Bola
 #https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola1sd|authorization=Bearer 
 https://l01.dp.sooka.my/5099/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIzNjk4OTYsImlzcyI6IlZSIiwiZXhwIjoxNzUyNDQ1ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNmY1OWM1MzYtNzA4ZC00MzU5LWE0NGMtODllNzU5YmU1M2Y1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.frcKu--zGZKxvuXzzT_gnoXMALnWLP21M3aRcSVkb30
 
@@ -609,7 +609,7 @@ https://l01.dp.sooka.my/5099/linear/index.mpd|authorization=Bearer eyJhbGciOiJIU
 #KODIPROP:inputstream.adaptive.license_key=1314914fb4f94984b7a7572a03b69f93:7ec8c4186df69a58cf640291a7c9ac7c
 ##KODIPROP:inputstream.adaptive.license_key={"1314914fb4f94984b7a7572a03b69f93":"7ec8c4186df69a58cf640291a7c9ac7c","f166a88a7f1b40bba2e399bf2f972365":"abf14067e089861730f4c6ff24b52dba"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" group-title="Sports" tvg-logo="https://aqfadtv.xyz/logos/Astro Arena Bola 2 (2024).png",Astro Arena Bola 2
+#EXTINF:-1 tvg-id="804.astro" ch-number="804" group-title="Sports" tvg-logo="https://aqfadtv.xyz/logos/Astro Arena Bola 2 (2024).png",Astro Arena Bola 2
 #https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola2sd|authorization=Bearer 
 https://l02.dp.sooka.my/5100/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIzNjk4OTYsImlzcyI6IlZSIiwiZXhwIjoxNzUyNDQ1ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNmY1OWM1MzYtNzA4ZC00MzU5LWE0NGMtODllNzU5YmU1M2Y1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.frcKu--zGZKxvuXzzT_gnoXMALnWLP21M3aRcSVkb30
 
